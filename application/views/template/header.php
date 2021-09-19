@@ -13,7 +13,7 @@
     <link href='https://fonts.googleapis.com/css?family=Maven Pro' rel='stylesheet'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <title>Hello, world!</title>
+    <title>Beranda | BEM ITS</title>
 </head>
 
 <body>
@@ -32,6 +32,21 @@
                     </li>
                     <li class="nav-item dropdown px-2">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Profil
+                        </a>
+                        <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="#">Unjuk Asa </a></li>
+                            <li><a class="dropdown-item" href="#">Kominrel</a></li>
+                            <li><a class="dropdown-item" href="#">Intra Kampus</a></li>
+                            <li><a class="dropdown-item" href="#">Akar Inovasi</a></li>
+                            <li><a class="dropdown-item" href="#">Kemahasiswaan</a></li>
+                            <li><a class="dropdown-item" href="#">Gersospol</a></li>
+                            
+                        </ul>
+                        
+                    </li>
+                    <li class="nav-item dropdown px-2">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Rilis
                         </a>
                         <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
@@ -40,14 +55,11 @@
                         </ul>
                     </li>
                     <li class="nav-item px-2">
-                        <a class="nav-link" href="#">Profil</a>
-                    </li>
-                    <li class="nav-item px-2">
                         <a class="nav-link" href="#">Kalender</a>
                     </li>
                 
                 </ul>
-                <form class="d-flex px-2">
+                <form class="d-flex ps-3 pe-5">
                     <a href="#"><i class="bi bi-search"></i></a>
                 </form>
             </div>
