@@ -11,6 +11,14 @@
     color: inherit;
 }
 
+.responsiveteksbesar{
+    font-size: 10vw;
+}
+
+.responsivetekskecil{
+    font-size: 5vw;
+}
+
 .warnabgnav {
     background-color: #fcfae6;
 }
@@ -30,3 +38,10 @@
 .navbar-toggler {
     border-color: rgb(1, 60, 81);
 }
+
+/* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+@media screen and (max-width: 600px) {
+    .p {
+      font-size: 10px;
+    }
+  }
