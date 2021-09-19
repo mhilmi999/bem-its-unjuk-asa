@@ -1,6 +1,7 @@
 .body{
     overflow-x: hidden;
 }
+
 .fontnavbar {
     font-family: 'Maven Pro';
     color: #013c51;
@@ -9,6 +10,7 @@
 .a, a:hover, a:focus, a:active, a:link{
     text-decoration: none;
     color: inherit;
+    font-weight: bold;
 }
 
 .responsiveteksbesar{

@@ -1,6 +1,6 @@
 <footer class="text-center text-white" style="background-color: #393999;">
     <div class="px-5 py-5 row align-items-start">
-        <div class="col d-none d-xl-block d-xxl-none">
+        <div class="col d-none d-sm-none d-md-block d-lg-block d-xl-block d-xxl-block">
             <div class="ps-5 col-8 fw-normal text-start">
                 <p class="fs-6">Sekretariat BEM ITS:</p>
                 <p class="fs-6">SCC ITS, Keputih Sukolilo Kota SBY,<br>Keputih, Mulyorejo, Surabaya City, East Java<br>60115</p>
@@ -11,25 +11,25 @@
         <!-- icon sosmed -->
         <div class="col-4">
             <!-- Section: Social media -->
-            <div class="col ps-3 fw-normal text-start d-none d-xl-block d-xxl-none">
+            <div class="col ps-3 fw-normal text-start d-none d-sm-none d-md-block d-lg-block d-xl-block d-xxl-block">
                 <p class="fs-6">Email:<br>bem@its.ac.id<br>Phone:<br>08XXXXXXXXXXX</p>
                 <p class="fs-6">Get in touch with us:</p>
             </div>
-            <div class="col-sm-12 d-flex justify-content-start justify-content-sm-center ">
+            <div class="col-sm-12 d-flex justify-content-start">
 
-                <a class="btn btn-link btn-floating btn-lg text-dark float-start " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-line"></i></a>
+                <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-line"></i></a>
 
                 <!-- Twitter -->
-                <a class="btn btn-link btn-floating btn-lg text-dark float-start " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-twitter"></i></a>
+                <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-twitter"></i></a>
 
                 <!-- Yt -->
-                <a class="btn btn-link btn-floating btn-lg text-dark float-start " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-youtube-square"></i></a>
+                <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-youtube-square"></i></a>
 
                 <!-- Instagram -->
-                <a class="btn btn-link btn-floating btn-lg text-dark float-start " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-instagram"></i></a>
+                <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-instagram"></i></a>
 
                 <!-- Linkedin -->
-                <a class="btn btn-link btn-floating btn-lg text-dark float-start " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-linkedin"></i></a>
+                <a class="btn btn-link btn-floating btn-lg text-dark float-start px-4 fw-bolder " href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fcfae6;" class="fab fa-linkedin"></i></a>
             </div>
             <!-- Line -->
 
