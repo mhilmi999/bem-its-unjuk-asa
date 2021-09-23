@@ -4,6 +4,27 @@
 }
   .kepala{
 	position:absolute;
+<<<<<<< HEAD
+	width:103%;
+	height:40%;
+	left:-3%;
+  background:#ffeb78;
+	/* background-image: linear-gradient(#fcfae6, #393999); */
+  opacity: 0.65;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	border-bottom-left-radius: 50% 20%;
+	border-bottom-right-radius: 100% 
+  100%;
+  z-index: -1;
+  }
+
+.h1.bgwelcome{
+  background-color:#fcfae6;
+}
+
+
+=======
 	width:105%;
 	height:40%;
 	left:-3%;
@@ -13,6 +34,7 @@
 	border-bottom-left-radius: 50% 20%;
 	border-bottom-right-radius: 50% 20%;
   }
+>>>>>>> 423e5328d20558150e731c8ac8bd9cca4af02da8
 .fontnavbar {
     font-family: 'Maven Pro';
     color: #013c51;
@@ -86,7 +108,11 @@
   .portfolio-section .portfolio-btn-wrapper button {
     margin-right: 10px;
     padding: 7px 18px;
+<<<<<<< HEAD
+    font-size: 30px;
+=======
     font-size: 16px;
+>>>>>>> 423e5328d20558150e731c8ac8bd9cca4af02da8
   }
 }
 
@@ -94,6 +120,12 @@
   .portfolio-section .portfolio-btn-wrapper button {
     margin-right: 10px;
     padding: 7px 18px;
+<<<<<<< HEAD
+    font-size: 6px;
+  }
+}
+
+=======
     font-size: 16px;
   }
 }
@@ -179,3 +211,4 @@
 .single-portfolio .single-portfolio-img img {
   width: 100%;
 }
+>>>>>>> 423e5328d20558150e731c8ac8bd9cca4af02da8
