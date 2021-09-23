@@ -3,7 +3,6 @@
 
 <div>
 </div>
-<<<<<<< HEAD
 
 <!-- card -->
 <div class="container py-5">
@@ -12,18 +11,11 @@
               <img class="img-fluid" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
           </div>
           <div class="col-6 ms-5 ps-5 text-center">
-              <h1 class="bgwelcome">Selamat Datang<br>di Official Website<br>BEM ITS 2021</h1>
+              <h1 class="bgwelcome" style="font-size:5vw">Selamat Datang<br>di Official Website<br>BEM ITS 2021</h1>
           </div>
           
 
               <!-- <div id="carousel" class="carousel slide" data-ride="carousel">
-=======
-<!-- card -->
-      <div class="container my-5">
-          <div class="row d-flex justify-content-center">
-              <div class="col-12">
-                <div id="carousel" class="carousel slide" data-ride="carousel">
->>>>>>> 423e5328d20558150e731c8ac8bd9cca4af02da8
                     <ol class="carousel-indicators">
                         <li data-target="#carousel" data-slide-to="0" class="active bg-secondary"></li>
                         <li data-target="#carousel" data-slide-to="1" class="bg-secondary"></li>
@@ -164,7 +156,6 @@
                       </div>
                     </div>
                   </div>
-<<<<<<< HEAD
               </div> -->
           
     </div>
@@ -172,10 +163,5 @@
 
 
 
-=======
-              </div>
-          </div>
-      </div>
->>>>>>> 423e5328d20558150e731c8ac8bd9cca4af02da8
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
