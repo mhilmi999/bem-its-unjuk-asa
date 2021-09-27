@@ -30,6 +30,7 @@
 
 
     <title>Beranda | BEM ITS</title>
+
 </head>
 
 <body style="overflow-x: hidden;">

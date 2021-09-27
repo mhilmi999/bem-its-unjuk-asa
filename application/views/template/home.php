@@ -2,10 +2,10 @@
 <div class="container-fluid homeslide1 backgroundAll py-5">
   <div class="container py-5">
     <div class="row align-items-center">
-      <div class="col me-5 pe-5 ps-n5">
+      <div class="col d-none d-sm-block">
         <img class="img-fluid" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
       </div>
-      <div class="col ms-5 ps-5 pe-n5 text-center">
+      <div class="row col text-center">
         <h1 class="h1homewarnapaletungu fw-bolder">Selamat Datang<br>di Official Website<br>BEM ITS 2021</h1>
       </div>
     </div>
@@ -17,22 +17,13 @@
 <div class="container-fluid py-5 backgroundAll">
   <div class="container py-5">
     <div class="row justify-content-center align-items-center">
-      <div class="col me-5 pe-5 ps-n5">
-        <h2 class="warnapaletungu fw-bold">Tentang Kami</h2>
-        <p class="warnapaletungu">is simply dummy text of the printing and typesetting<br>
-          industry. Lorem Ipsum has been the industry's<br>
-          standard dummy text ever since the 1500s, when an<br>
-          unknown printer took a galley of type and scrambled<br>
-          it to make a type specimen book. It has survived not<br>
-          only five centuries, but also the leap into electronic<br>
-          typesetting, remaining essentially unchanged. It was<br>
-          popularised in the 1960s with the release of Letraset<br>
-          sheets containing Lorem Ipsum passages, and more<br>
-          recently with desktop publishing software like Aldus<br>
-          PageMaker including versions of Lorem Ipsum.
+      <div class="col mx-auto">
+        <h2 class="warnapaletungu fw-bold text-md-start text-center">Tentang Kami</h2>
+        <p class="warnapaletungu text-md-start text-center ">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
         </p>
+        <p class="warnapaletungu d-none d-sm-block">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
       </div>
-      <div class="col ms-5 ps-5 pe-n5 text-center">
+      <div class="col text-center d-none d-sm-block ms-5">
         <div class="ratio ratio-16x9">
           <iframe src="https://www.youtube.com/embed/MyuFr_KZLs0">
           </iframe>
@@ -201,192 +192,170 @@
 
 <!-- Slide 4 kabardariBemITS -->
 <div class="container-fluid py-5 slide4Homebg">
-  <div class="container py-5 slide4Homebg">
-    <h2 class="text-end fw-bold warnapaletputih pb-5">Kabar dari BEM ITS</h2>
-    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-      <div class="carousel-indicators">
-        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-      </div>
+  <div class="container py-5 ">
+    <div id="carousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active bg-secondary"></li>
+        <li data-target="#carousel" data-slide-to="1" class="bg-secondary"></li>
+        <li data-target="#carousel" data-slide-to="2" class="bg-secondary"></li>
+      </ol>
       <div class="carousel-inner">
+
         <div class="carousel-item active">
-          <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-carousel.png" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-carousel.png" class="d-block w-100" alt="...">
-        </div>
-        <div class="carousel-item">
-          <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-carousel.png" class="d-block w-100" alt="...">
-        </div>
-      </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div>
-  </div>
-</div>
-<!-- Slide 4 kabardariBemITS -->
+          <div class="row align-items-center">
 
-<!-- Slide 5 ???? -->
-<div class="container-fluid py-5 slide3Homebg">
-  <div class="container py-5">
-
-  </div>
-</div>
-<!-- Slide 5 ???? -->
-
-
-
-<!-- ini carousel -->
-<!-- <div id="carousel" class="carousel slide" data-ride="carousel">
-            <ol class="carousel-indicators">
-                <li data-target="#carousel" data-slide-to="0" class="active bg-secondary"></li>
-                <li data-target="#carousel" data-slide-to="1" class="bg-secondary"></li>
-                <li data-target="#carousel" data-slide-to="2" class="bg-secondary"></li>
-              </ol>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">35% discount for premium Bootstrap Themes, Templates, UI Kits</h5>
-                              <p class="card-text">We’re getting nearer to the end of summer and because we know that this period can make a serious dent in your pocket..</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">We built an OpenAI powered Tailwind CSS code generator using GPT-3</h5>
-                              <p class="card-text">A couple of days ago we got access to the OpenAI’s Beta API platform and I had the occasion to play around with it...</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Bootstrap 5 tutorial: learn how to get started without jQuery</h5>
-                              <p class="card-text">We’re getting nearer to the end of summer and because we know that this period can make a serious dent in your pocket..</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Angular 10 officially released deprecating support for IE 9 and 10</h5>
-                              <p class="card-text">If you’ve been using Angular for your web projects I’m glad to let you know that following this major update to version...</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
               </div>
-              <div class="carousel-item">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">35% discount for premium Bootstrap Themes, Templates, UI Kits</h5>
-                              <p class="card-text">We’re getting nearer to the end of summer and because we know that this period can make a serious dent in your pocket..</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">We built an OpenAI powered Tailwind CSS code generator using GPT-3</h5>
-                              <p class="card-text">A couple of days ago we got access to the OpenAI’s Beta API platform and I had the occasion to play around with it...</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Bootstrap 5 tutorial: learn how to get started without jQuery</h5>
-                              <p class="card-text">We’re getting nearer to the end of summer and because we know that this period can make a serious dent in your pocket..</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Angular 10 officially released deprecating support for IE 9 and 10</h5>
-                              <p class="card-text">If you’ve been using Angular for your web projects I’m glad to let you know that following this major update to version...</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
               </div>
-              <div class="carousel-item">
-                <div class="row">
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">35% discount for premium Bootstrap Themes, Templates, UI Kits</h5>
-                              <p class="card-text">We’re getting nearer to the end of summer and because we know that this period can make a serious dent in your pocket..</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">We built an OpenAI powered Tailwind CSS code generator using GPT-3</h5>
-                              <p class="card-text">A couple of days ago we got access to the OpenAI’s Beta API platform and I had the occasion to play around with it...</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Bootstrap 5 tutorial: learn how to get started without jQuery</h5>
-                              <p class="card-text">We’re getting nearer to the end of summer and because we know that this period can make a serious dent in your pocket..</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-md-6 col-xl-3 mb-4">
-                        <div class="card mr-3">
-                            <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img-top" alt="...">
-                            <div class="card-body">
-                              <h5 class="card-title">Angular 10 officially released deprecating support for IE 9 and 10</h5>
-                              <p class="card-text">If you’ve been using Angular for your web projects I’m glad to let you know that following this major update to version...</p>
-                              <a href="#" class="btn btn-primary">Read more</a>
-                            </div>
-                        </div>
-                    </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
               </div>
             </div>
           </div>
-      </div> -->
-<!-- ini carousel -->
+        </div>
+
+        <div class="carousel-item">
+          <div class="row align-items-center">
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item">
+          <div class="row align-items-center">
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-dark">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+<!-- Slide 4 kabardariBemITS -->
+
+<!-- Slide 5 Instagram BEMITS -->
+<div class="container-fluid py-5  backgroundAll">
+  <div class="container py-5">
+    <h1 style="text-align: center">Instagram Feed</h1>
+    <div class="row align-items-center">
+      <div class="card" id="instafeed-container" style="width: 18rem;">
+      </div>
+    </div>
+  </div>
+  <!-- <div id="instafeed-container"></div> -->
+
+  <script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
+  <script type="text/javascript">
+    var userFeed = new Instafeed({
+      get: 'user',
+      target: "instafeed-container",
+      resolution: 'low_resolution',
+      accessToken: 'IGQVJXNlVHVjVHd3MzN1ZAqU1NQdlVFTWRUdEVDU0M4U3VuUFRKcnE3b2ItTjVLZAzZAZAZAXJad2xYX2o5dXRHdkpZAY0JtMWJsMnpHT0VUTzFGZAFpQekFKTmtNMWJhRXBySUcwcnlKbUZAfRGxSSVZAtV3l3SQZDZD'
+    });
+    userFeed.run();
+  </script>
+</div>
+</div>
+<!-- Slide 5 Instagram BEMITS -->
+
+
 
 
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
