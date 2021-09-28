@@ -39,6 +39,12 @@
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
 }
 
+.instaimg img {margin-bottom:30px;}
+.instaimg img:hover {
+	opacity:0.8;
+	-moz-opacity:0.8;
+	-webkit-opacity:0.8;
+}
 
 .h1homewarnapaletungu
 {

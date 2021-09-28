@@ -192,7 +192,8 @@
 
 <!-- Slide 4 kabardariBemITS -->
 <div class="container-fluid py-5 slide4Homebg">
-  <div class="container py-5 ">
+  <div class="container py-2 ">
+    <h2 class="fw-bold text-end warnapaletputih pb-3">Kabar dari BEM ITS</h2>
     <div id="carousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active bg-secondary"></li>
@@ -333,28 +334,33 @@
 <!-- Slide 5 Instagram BEMITS -->
 <div class="container-fluid py-5  backgroundAll">
   <div class="container py-5">
-    <h1 style="text-align: center">Instagram Feed</h1>
-    <div class="row align-items-center">
-      <div class="card" id="instafeed-container" style="width: 18rem;">
-      </div>
+    <h2 class="text-center fw-bold warnapaletungu">Instagram Feed</h2>
+    <div class="row" id="instafeed">
     </div>
   </div>
   <!-- <div id="instafeed-container"></div> -->
 
-  <script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
-  <script type="text/javascript">
-    var userFeed = new Instafeed({
-      get: 'user',
-      target: "instafeed-container",
-      resolution: 'low_resolution',
-      accessToken: 'IGQVJXNlVHVjVHd3MzN1ZAqU1NQdlVFTWRUdEVDU0M4U3VuUFRKcnE3b2ItTjVLZAzZAZAZAXJad2xYX2o5dXRHdkpZAY0JtMWJsMnpHT0VUTzFGZAFpQekFKTmtNMWJhRXBySUcwcnlKbUZAfRGxSSVZAtV3l3SQZDZD'
-    });
-    userFeed.run();
-  </script>
 </div>
 </div>
 <!-- Slide 5 Instagram BEMITS -->
 
+
+
+<script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
+<!-- <script src="<?= base_url();?>assets/js/custom.js"></script> -->
+
+<script type="text/javascript">
+  var userFeed = new Instafeed({
+    get: 'user',
+    target: "instafeed",
+    resolution: 'standard_resolution',
+    accessToken: 'IGQVJXNlVHVjVHd3MzN1ZAqU1NQdlVFTWRUdEVDU0M4U3VuUFRKcnE3b2ItTjVLZAzZAZAZAXJad2xYX2o5dXRHdkpZAY0JtMWJsMnpHT0VUTzFGZAFpQekFKTmtNMWJhRXBySUcwcnlKbUZAfRGxSSVZAtV3l3SQZDZD',
+    limit: 8,
+
+    template: '<div class="col-lg-3 instaimg"><a href="{{link}}" title="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}" class="img-fluid"/></a></div>',
+  });
+  userFeed.run();
+</script>
 
 
 
