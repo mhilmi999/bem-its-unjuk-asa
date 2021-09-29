@@ -37,8 +37,8 @@
     <header class="sticky-top shadow">
         <nav class="warnabgnav navbar navbar-expand-lg navbar-custom ">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">
-                    <img src="<?= base_url(); ?>assets/img/logounjukasa.png" alt="" height="45" class="d-inline-block align-text-top">
+                <a class="navbar-brand" href="<?php echo site_url('home') ?>">
+                    <img src="<?= base_url(); ?>assets/img/logounjukasa.png"  alt="Kabinet Unjuk Asa" height="45" class="d-inline-block align-text-top">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -47,19 +47,19 @@
                     <!-- Buat ganti warna di navbar Collapse di dalam css bootstrap -->
                     <ul class="ms-auto navbar-nav  mb-2 mb-lg-0">
                         <li class="nav-item px-2">
-                            <a class="nav-link active" aria-current="page" href="#">Beranda</a>
+                            <a class="nav-link active" aria-current="page" href="<?php echo site_url('home') ?>">Beranda</a>
                         </li>
                         <li class="nav-item dropdown px-2">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Profil
                             </a>
                             <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Unjuk Asa </a></li>
-                                <li><a class="dropdown-item" href="#">Kominrel</a></li>
-                                <li><a class="dropdown-item" href="#">Intra Kampus</a></li>
-                                <li><a class="dropdown-item" href="#">Akar Inovasi</a></li>
-                                <li><a class="dropdown-item" href="#">Kemahasiswaan</a></li>
-                                <li><a class="dropdown-item" href="#">Gersospol</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kabinet') ?>">Unjuk Asa </a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kominrel') ?>">Kominrel</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/inpus') ?>">Intra Kampus</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/akarinovasi') ?>">Akar Inovasi</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/kemahasiswaan') ?>">Kemahasiswaan</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('profil/gersospol') ?>">Gersospol</a></li>
 
                             </ul>
 
@@ -69,12 +69,12 @@
                                 Rilis
                             </a>
                             <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Dari KM ITS untuk Indonesia </a></li>
-                                <li><a class="dropdown-item" href="#">Kabar dari BEM ITS</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('rilis/darikmitsuntukindonesia') ?>">Dari KM ITS untuk Indonesia </a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('rilis/kabardaribemits') ?>">Kabar dari BEM ITS</a></li>
                             </ul>
                         </li>
                         <li class="nav-item px-2">
-                            <a class="nav-link" href="#">Kalender</a>
+                            <a class="nav-link" href="<?php echo site_url('kalender') ?>">Kalender</a>
                         </li>
 
                     </ul>
