@@ -151,6 +151,13 @@
     color: #fff;
 }
 
+@media all and (min-width: 992px) {
+	.navbar .nav-item .dropdown-menu{ display: none; }
+	.navbar .nav-item:hover .nav-link{ }
+	.navbar .nav-item:hover .dropdown-menu{ display: block; }
+	.navbar .nav-item .dropdown-menu{ margin-top:0; }
+	} 
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .portfolio-section .portfolio-btn-wrapper button {
         margin-right: 10px;
