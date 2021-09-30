@@ -56,14 +56,18 @@
 <!-- NewBiz Template -->
 <!-- Vendor JS Files -->
 <script src="<?= base_url(); ?>newbiz/assets/vendor/aos/aos.js"></script>
-<script src="<?= base_url(); ?>newbiz/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 <script src="<?= base_url(); ?>newbiz/assets/vendor/glightbox/js/glightbox.min.js"></script>
 <script src="<?= base_url(); ?>newbiz/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 <script src="<?= base_url(); ?>newbiz/assets/vendor/php-email-form/validate.js"></script>
 <script src="<?= base_url(); ?>newbiz/assets/vendor/purecounter/purecounter.js"></script>
 <script src="<?= base_url(); ?>newbiz/assets/vendor/swiper/swiper-bundle.min.js"></script>
+<!-- NewBiz Template -->
+<!-- Vendor JS Files -->
+
 
 <!-- Template Main JS File -->
 <script src="<?= base_url(); ?>newbiz/assets/js/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
+<script src="<?= base_url();?>assets/js/custom.js"></script>
 
 </html>

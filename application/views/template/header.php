@@ -8,6 +8,7 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
     <link href="<?= base_url(); ?>assets/css/base.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -26,7 +27,8 @@
     <link href="<?= base_url(); ?>newbiz/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="<?= base_url(); ?>newbiz/assets/css/style.css" rel="stylesheet">
+    <!-- ini masalah -->
+    <link href="<?= base_url(); ?>newbiz/assets/css/style.css" rel="stylesheet"> 
 
 
     <title>Beranda | BEM ITS</title>
@@ -40,10 +42,10 @@
                 <a class="navbar-brand" href="<?php echo site_url('home') ?>">
                     <img src="<?= base_url(); ?>assets/img/logounjukasa.png"  alt="Kabinet Unjuk Asa" height="45" class="d-inline-block align-text-top">
                 </a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#hambergernavbar" aria-controls="hambergernavbar" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse fontnavbar fw-bold" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse fontnavbar fw-bold" id="hambergernavbar">
                     <!-- Buat ganti warna di navbar Collapse di dalam css bootstrap -->
                     <ul class="ms-auto navbar-nav  mb-2 mb-lg-0">
                         <li class="nav-item px-2">
@@ -78,7 +80,7 @@
                         </li>
 
                     </ul>
-                    <form class="d-flex ps-3 pe-5">
+                    <form class="ps-3 pe-5">
                         <a href="#"><i class="bi bi-search"></i></a>
                     </form>
                 </div>
