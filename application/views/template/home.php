@@ -330,29 +330,6 @@
 </div>
 <!-- Slide 4 kabardariBemITS -->
 
-<!-- <div class="container-fluid py-5 slide3Homebg">
-  <div class="container py-5">
-    <div class="card" >
-      <div class="ml-3 mt-2">
-        <svg class="ps-2" xmlns="http://www.w3.org/2000/svg" width="54" height="14" viewBox="0 0 54 14">
-          <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
-            <circle cx="6" cy="6" r="6" fill="#FF5F56" stroke="#E0443E" stroke-width=".5"></circle>
-            <circle cx="26" cy="6" r="6" fill="#FFBD2E" stroke="#DEA123" stroke-width=".5"></circle>
-            <circle cx="46" cy="6" r="6" fill="#27C93F" stroke="#1AAB29" stroke-width=".5"></circle>
-          </g>
-        </svg>
-      </div>
-      <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-        <a href="#" class="card-link">Card link</a>
-        <a href="#" class="card-link">Another link</a>
-      </div>
-    </div>
-  </div>
-</div> -->
-
 <!-- Slide 5 Instagram BEMITS -->
 <div class="container-fluid py-5  backgroundAll">
   <div class="container py-5">
@@ -368,12 +345,15 @@
       </div>
       <div class="card-body">
         <div class="row align-items-center pb-3">
-            <div class="col ">
-              <img class="img-fluid float-end" src="<?= base_url();?>assets/img/igIcon.png" alt="">
-            </div>
-            <div class="col">
-              <h5 class="text-start fw-bold warnapaletungu card-title">@bem_its</h5>
-            </div>
+          <div class="col ">
+            <img class="img-fluid float-end" src="<?= base_url(); ?>assets/img/igIcon.png" alt="">
+          </div>
+          <div class="col">
+            <a href="https://www.instagram.com/bem_its/" target="_blank" class="fs-5 text-start fw-bold warnapaletungu card-title" style="color: #013c51;">
+              @bem_its
+            </a>
+            <!-- <h5 class="text-start fw-bold warnapaletungu card-title">@bem_its</h5> -->
+          </div>
         </div>
         <!-- <h2 class="text-center fw-bold warnapaletungu card-title">Instagram Feed</h2> -->
         <div class="row" id="instafeed">

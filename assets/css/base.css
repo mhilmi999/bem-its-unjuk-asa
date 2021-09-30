@@ -18,15 +18,16 @@
     z-index: -1;
 }
 
-.backgroundAll{
+
+.backgroundAll {
     background-color: #fcfae6;
 }
 
-.slide3Homebg{
+.slide3Homebg {
     background-color: #FFD400;
 }
 
-.homeslide1{
+.homeslide1 {
     padding: auto;
     margin: auto;
     background-image: url("../img/homeslide1.png");
@@ -35,48 +36,49 @@
     background-size: cover;
 }
 
-.gambarcarouselhome{
+.gambarcarouselhome {
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
 }
 
-.instaimg img {margin-bottom:30px;}
-.instaimg img:hover {
-	opacity:0.8;
-	-moz-opacity:0.8;
-	-webkit-opacity:0.8;
+.instaimg img {
+    margin-bottom: 30px;
 }
 
-.h1homewarnapaletungu
-{
+.instaimg img:hover {
+    opacity: 0.8;
+    -moz-opacity: 0.8;
+    -webkit-opacity: 0.8;
+}
+
+.h1homewarnapaletungu {
     color: #393999;
     background: #fcfae6;
     opacity: 0.9;
 }
 
-.slide4Homebg{
+.slide4Homebg {
     background-color: #393999;
 }
 
-.card{
-    border:none; border-radius: 20%;
+.card {
+    border: none;
+    border-radius: 20%;
 }
 
-.slide5Homebg{
+.slide5Homebg {
     background-color: #013c51;
     border-radius: 50px 50px 0px 0px;
 }
 
-.slide5Card{
+.slide5Card {
     border-radius: 50px;
 }
 
-.warnapaletputih
-{
+.warnapaletputih {
     color: #fcfae6;
 }
 
-.warnapaletungu
-{
+.warnapaletungu {
     color: #393999;
 }
 
@@ -165,7 +167,7 @@
     h1 {
         font-size: 5vw;
     }
-    p{
+    p {
         font-size: 2vh;
     }
 }
@@ -176,12 +178,14 @@
     padding: 25px;
     border-radius: 10px;
 }
+
 ol.carousel-indicators {
     display: block;
     left: auto;
     bottom: 50px;
     right: 15px;
 }
+
 .carousel-indicators li {
     height: 5px;
     background-color: #ffeb3b;
