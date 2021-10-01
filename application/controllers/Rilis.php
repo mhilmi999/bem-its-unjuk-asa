@@ -21,13 +21,13 @@ class Rilis extends CI_Controller {
 	public function darikmitsuntukindonesia()
 	{
         $this->load->view('template/header');
-		$this->load->view('template/profil/kabinet');
+		$this->load->view('template/kmitsuntukindonesia');
         $this->load->view('template/footer');
 	}
     public function kabardaribemits()
 	{
         $this->load->view('template/header');
-		$this->load->view('template/profil/kominrel');
+		$this->load->view('template/kabarbemits');
         $this->load->view('template/footer');
 	}
 }

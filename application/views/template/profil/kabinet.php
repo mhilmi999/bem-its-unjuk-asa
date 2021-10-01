@@ -44,3 +44,33 @@
 </section>
 <!-- End Header Section -->
 
+<!-- Header-->
+    <header class="slide3Homebg py-5">
+                <div class="container">
+                    <div class="row gx-5 align-items-center justify-content-center">
+                            <div class="text-center my-5">
+                                <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Logo Unjuk Asa</h1>
+                            </div>
+                        <div class="col-xl-5 col-xxl-6  text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/logo.png" alt=""></div>
+                    </div>
+                </div>
+            </header>
+
+<!-- Slide 3 quicklink -->
+<div class="container-fluid py-5 slideprokerbg">
+  <!-- ======= Portfolio Section ======= -->
+    <div class="container slideprokerbg">
+        <header class="section-header">
+        <h3 class="section-title text-center warnapaletungu fw-bolder">Proker Agenda</h3>
+        </header>
+        <br>
+        <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      </div>
+      <br>
+      
+      </div>
+    </div>
+</div>
+<!-- Slide 3 quicklink -->

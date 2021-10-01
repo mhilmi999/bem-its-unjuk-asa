@@ -17,11 +17,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="icon" href="<?= base_url(); ?>assets/img/icon.png">
 
+    <link href='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css' rel='stylesheet'>
 
+                                <script type='text/javascript' src='https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js'></script>
+                                <script type='text/javascript' src='https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js'></script>
+
+                                
     <!-- NewBiz Template -->
     <!-- Vendor CSS Files -->
     <link href="<?= base_url(); ?>newbiz/assets/vendor/aos/aos.css" rel="stylesheet">
-    <link href="<?= base_url(); ?>newbiz/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?= base_url(); ?>newbiz/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="<?= base_url(); ?>newbiz/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
     <link href="<?= base_url(); ?>newbiz/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
