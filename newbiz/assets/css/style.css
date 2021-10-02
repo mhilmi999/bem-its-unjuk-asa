@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #007bff;
+  color: #393999;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -72,6 +72,97 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   max-height: 26px;
 }
+*--------------------------------------------------------------
+# Navbar settup
+--------------------------------------------------------------*/
+.navbar {
+  padding: 0;
+}
+.navbar ul {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+.navbar li {
+  position: relative;
+}
+.navbar a, .navbar a:focus {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0 10px 30px;
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 15px;
+  color: #004289;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: 0.3s;
+}
+.navbar a i, .navbar a:focus i {
+  font-size: 12px;
+  line-height: 0;
+  margin-left: 5px;
+}
+.navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
+  color: #393999;
+}
+.navbar .dropdown ul {
+  display: block;
+  position: absolute;
+  left: 14px;
+  top: calc(100% + 30px);
+  margin: 0;
+  padding: 10px 0;
+  z-index: 99;
+  opacity: 0;
+  visibility: hidden;
+  background: #fff;
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  transition: 0.3s;
+}
+.navbar .dropdown ul li {
+  min-width: 200px;
+}
+.navbar .dropdown ul a {
+  padding: 10px 20px;
+  font-size: 14px;
+  text-transform: none;
+}
+.navbar .dropdown ul a i {
+  font-size: 12px;
+}
+.navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
+  color: #393999;
+}
+.navbar .dropdown:hover > ul {
+  opacity: 1;
+  top: 100%;
+  visibility: visible;
+}
+.navbar .dropdown .dropdown ul {
+  top: 0;
+  left: calc(100% - 30px);
+  visibility: hidden;
+}
+.navbar .dropdown .dropdown:hover > ul {
+  opacity: 1;
+  top: 0;
+  left: 100%;
+  visibility: visible;
+}
+@media (max-width: 1366px) {
+  .navbar .dropdown .dropdown ul {
+    left: -90%;
+  }
+  .navbar .dropdown .dropdown:hover > ul {
+    left: -100%;
+  }
+}
+/*--------------------------------------------------------------
+# Navbar settup
+--------------------------------------------------------------*/
 
 /*--------------------------------------------------------------
 # Hero Section
@@ -465,15 +556,15 @@ section {
   padding: 6px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #007bff;
+  color: #013c51;
   border-radius: 50px;
   text-transform: uppercase;
-  background: #ecf5ff;
+  background: #fcfae6;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  background: #007bff;
+  background: #393999;
   color: #fff;
 }
 #portfolio #portfolio-flters li:last-child {
@@ -519,7 +610,7 @@ section {
   color: #fff;
 }
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 a:hover {
-  color: #007bff;
+  color: #393999;
 }
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info p {
   padding: 0;
@@ -536,7 +627,7 @@ section {
   line-height: 1;
   width: 36px;
   height: 36px;
-  background: #007bff;
+  background: #393999;
   border-radius: 50%;
   margin: 10px 4px 0 4px;
 }
@@ -576,10 +667,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #007bff;
+  border: 1px solid #393999;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #007bff;
+  background-color: #393999;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -677,10 +768,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #007bff;
+  border: 1px solid #393999;
 }
 #testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #007bff;
+  background-color: #393999;
 }
 
 /* Team Section
@@ -797,7 +888,7 @@ section {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #007bff;
+  color: #393999;
 }
 #contact .contact-about p {
   font-size: 14px;
@@ -812,7 +903,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #007bff;
+  color: #393999;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
