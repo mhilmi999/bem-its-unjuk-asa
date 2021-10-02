@@ -80,6 +80,18 @@
           </div>
         </div>
 
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Media Partner</a></h4>
+              <div>
+                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
@@ -116,17 +128,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Media Partner</a></h4>
-              <div>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
+        
 
       </div>
 
@@ -151,8 +153,8 @@
           <div class="row align-items-center">
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img  src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img gambarcarouselhome"  alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
@@ -160,8 +162,8 @@
             </div>
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
@@ -169,8 +171,8 @@
             </div>
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
@@ -178,49 +180,8 @@
             </div>
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img" alt="...">
-                <div class="card-img-overlay">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="carousel-item">
-          <div class="row align-items-center">
-
-            <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img" alt="...">
-                <div class="card-img-overlay">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img" alt="...">
-                <div class="card-img-overlay">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img" alt="...">
-                <div class="card-img-overlay">
-                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
@@ -233,8 +194,8 @@
           <div class="row align-items-center">
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
@@ -242,8 +203,8 @@
             </div>
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
@@ -251,8 +212,8 @@
             </div>
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
@@ -260,8 +221,49 @@
             </div>
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
-              <div class="card bg-dark text-dark">
-                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img" alt="...">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img gambarcarouselhome" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item">
+          <div class="row align-items-center">
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img gambarcarouselhome" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/gpt-3-tailwind-css-code-generator.jpg" class="card-img gambarcarouselhome" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-5-tutorial/bootstrap-5-tutorial.jpg" class="card-img gambarcarouselhome" alt="...">
+                <div class="card-img-overlay">
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12 col-md-6 col-xl-3 mb-4">
+              <div class="card bg-dark text-white">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/angular-10/angular-10-officially-released-dropping-ie-9-10.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
