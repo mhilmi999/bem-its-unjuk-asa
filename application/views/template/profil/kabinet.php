@@ -54,23 +54,92 @@
                         <div class="col-xl-5 col-xxl-6  text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/logo.png" alt=""></div>
                     </div>
                 </div>
-            </header>
+                <p class="text-center">
+                <a class="tombolunjukasa"  data-bs-toggle="collapse" data-bs-target="#multiCollapseExample1" aria-expanded="false" aria-controls="multiCollapseExample1">Unjuk</a>
+                <button class="tombolunjukasa" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Asa</button>
+                </p>
+                <div class="row">
+                <div class="col">
+                    <div class="collapse multi-collapse" id="multiCollapseExample1">
+                    <div class="text-right card-body">
+                    Mengangkat dan mengunjurkan tangan (lengan) ke atas.
+                    </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="collapse multi-collapse" id="multiCollapseExample2">
+                    <div class="card-body">
+                    Harap(an); semangat.
+                    </div>
+                    </div>
+                </div>
+                </div>
+        <p class="section-title text-center warnapaletungu fw-bolder">Sebuah gerakan untuk mengangkat & mewujudkan harapan bersama</p>
+    </header>
+            
 
 <!-- Slide 3 quicklink -->
-<div class="container-fluid py-5 slideprokerbg">
+<div class="container-fluid py-5 slideprogress">
   <!-- ======= Portfolio Section ======= -->
-    <div class="container slideprokerbg">
+    <div class="container slideprogress">
         <header class="section-header">
         <h3 class="section-title text-center warnapaletungu fw-bolder">Proker Agenda</h3>
         </header>
         <br>
         <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
+      <br>
+      <table class="table table-borderless">
+  <tbody>
+    <tr>
+      <th scope="row">BPH</th>
+      <td>
+      <div class="progress">
+        <div class="progress-bar" width="300px" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      </div>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Kominrel</th>
+      <td>
       <div class="progress">
         <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
       </div>
-      <br>
-      
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Intra Kampus</th>
+      <td>
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      </div>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Akar Inovasi</th>
+      <td>
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      </div>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Kemahasiswaan</th>
+      <td>
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      </div>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">Gersospol</th>
+      <td>
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
       </div>
     </div>
 </div>
-<!-- Slide 3 quicklink -->
