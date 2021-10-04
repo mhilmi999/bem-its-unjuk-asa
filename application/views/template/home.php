@@ -6,7 +6,7 @@
         <img class="img-fluid" src="<?= base_url(); ?>assets/img/logokabinet.png" alt="">
       </div>
       <div class="row col text-center">
-        <h1 class="h1homewarnapaletungu fw-bolder">Selamat Datang<br>di Official Website<br>BEM ITS 2021</h1>
+        <h1 class="h1homewarnapaletungu fw-bolder py-2" style="border-radius: 20px;">Selamat Datang<br>di Official Website<br>BEM ITS 2021</h1>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@
 </div>
 <!-- Slide 2 lilabout -->
 
-<!-- Slide 3 quicklink -->
+<!-- Slide 3 quicklink  -->
 <div class="container-fluid py-5 slide3Homebg d-none d-sm-block">
   <section id="portfolio" class="clearfix">
     <div class="container slide3Homebg" data-aos="fade-up">
@@ -56,6 +56,9 @@
         </div>
       </div>
 
+
+
+
       <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
@@ -70,17 +73,31 @@
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
+            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/expar.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Hotline Covid-19</a></h4>
+              <h4><a href="mailto:danielchrisdiodn@gmail.com">External Partnership</a></h4>
+              <div>
+                <a href="mailto:danielchrisdiodn@gmail.com" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Hotline AdKesma</a></h4>
               <div>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
               </div>
             </div>
           </div>
         </div>
+
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
@@ -118,9 +135,64 @@
           </div>
         </div>
 
+
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Hotline Covid-19</a></h4>
+              <div>
+                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+      </div>
+
+    </div>
+  </section>
+</div>
+
+<div class="container-fluid py-5 slide3Homebg d-block d-sm-none">
+  <section id="portfolio" class="clearfix">
+    <div class="container slide3Homebg" data-aos="fade-up">
+
+      <header class="section-header">
+        <h3 class="section-title warnapaletungu fw-bolder">Tautan Cepat</h3>
+      </header>
+
+      <!-- <div class="row" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-lg-12">
+          <ul id="portfolio-flters">
+            <li data-filter="*" class="filter-active">Semua</li>
+            <li data-filter=".filter-app">Covid 19</li>
+            <li data-filter=".filter-card">AdKesma</li>
+            <li data-filter=".filter-web">Relasi</li>
+          </ul>
+        </div>
+      </div> -->
+
+      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/4.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Informasi Covid-19</a></h4>
+              <div>
+                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/6.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4><a href="portfolio-details.html">Hotline AdKesma</a></h4>
               <div>
@@ -130,14 +202,75 @@
           </div>
         </div>
 
-        
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/1.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Media Partner</a></h4>
+              <div>
+                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/7.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="mailto:danielchrisdiodn@gmail.com">External Partnership</a></h4>
+              <div>
+                <a href="mailto:danielchrisdiodn@gmail.com" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/5.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Db Informasi AdKesma</a></h4>
+              <div>
+                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/2.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">IPRS</a></h4>
+              <div>
+                <a href="https://arek.its.ac.id/iprs/login" target="_blank" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+          <div class="portfolio-wrap">
+            <img src="<?= base_url(); ?>newbiz/assets/img/quicklinkmob/3.png" class="img-fluid" alt="">
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">Hotline Covid-19</a></h4>
+              <div>
+                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
 
       </div>
 
     </div>
   </section>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Slide 3 quicklink  -->
 
 <!-- Slide 4 kabardariBemITS -->
 <div class="container-fluid py-5 slide4Homebg">
@@ -156,7 +289,7 @@
 
             <div class="col-12 col-md-6 col-xl-3 mb-4">
               <div class="card bg-dark text-white">
-                <img  src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img gambarcarouselhome"  alt="...">
+                <img src="https://themesberg.s3.us-east-2.amazonaws.com/public/posts/bootstrap-themes-summer-sale.jpg" class="card-img gambarcarouselhome" alt="...">
                 <div class="card-img-overlay">
                   <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little</p>
                 </div>
