@@ -18,8 +18,10 @@
   <div class="container py-5">
     <div class="row justify-content-center align-items-center">
       <div class="col mx-auto">
-        <h2 class="warnapaletungu fw-bold text-md-start text-center">Tentang Kami</h2>
-        <p class="warnapaletungu text-md-start text-center ">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
+        <h2 class="warnapaletungu fw-bold text-start d-none d-sm-block">Tentang Kami</h2>
+        <p class="warnapaletungu text-start d-none d-sm-block">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
+        <h2 class="warnapaletungu fw-bold text-center d-block d-sm-none">Tentang Kami</h2>
+        <p class="warnapaletungu text-center d-block d-sm-none">Badan Eksekutif Mahasiswa (BEM) ITS merupakan lembaga eksekutif tertinggi di Keluarga Mahasiswa (KM) ITS. Dalam menjalankan tugas dan fungsinya, BEM ITS bertanggung jawab kepada Badan Legislatif Mahasiswa (BLM) ITS yang bersifat representatif terhadap mahasiswa ITS.<br>
         </p>
         <p class="warnapaletungu d-none d-sm-block">Adapun BEM ITS bertugas untuk mengoordinasikan seluruh kegiatan organisasi kemahasiswaan di lingkup KM ITS dan juga kegiatan kemahasiswaan di bidang sosial politik. Selain itu, BEM ITS berwenang dalam melakukan koordinasi dan instruksi terhadap HMD dan BEM Fakultas serta mewakili KM ITS keluar atas persetujuan BLM ITS dalam bidang sosial politik.</p>
       </div>
@@ -35,7 +37,7 @@
 <!-- Slide 2 lilabout -->
 
 <!-- Slide 3 quicklink -->
-<div class="container-fluid py-5 slide3Homebg">
+<div class="container-fluid py-5 slide3Homebg d-none d-sm-block">
   <section id="portfolio" class="clearfix">
     <div class="container slide3Homebg" data-aos="fade-up">
 
