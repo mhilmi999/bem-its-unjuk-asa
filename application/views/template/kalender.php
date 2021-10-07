@@ -15,5 +15,4 @@
             </div>
         </div>
     </div>
-    <!-- <div id="instafeed-container"></div> -->
 </div>
