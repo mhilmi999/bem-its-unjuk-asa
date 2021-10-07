@@ -64,10 +64,13 @@
 <!-- NewBiz Template -->
 <!-- Vendor JS Files -->
 
-
 <!-- Template Main JS File -->
 <script src="<?= base_url(); ?>newbiz/assets/js/main.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/stevenschobert/instafeed.js@2.0.0rc1/src/instafeed.min.js"></script>
-<script src="<?= base_url();?>assets/js/custom.js"></script>
+<script src="<?= base_url(); ?>assets/js/custom.js"></script>
+
+<script type='text/javascript' src='<?= base_url(); ?>fullcalendar/lib/main.js'></script>
+<script src="<?= base_url(); ?>assets/js/another.js"></script>
+
 
 </html>

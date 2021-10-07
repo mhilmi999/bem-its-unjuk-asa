@@ -445,7 +445,7 @@
     </div>
   </div>
   <!-- <div id="instafeed-container"></div> -->
-
 </div>
+
 </div>
 <!-- Slide 5 Instagram BEMITS -->
