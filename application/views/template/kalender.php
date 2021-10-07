@@ -1,5 +1,6 @@
 <div class="container-fluid py-5  backgroundAll">
     <div class="container">
+        <h2 class="fw-bold text-center fontnavbar">Kalender Agenda BEM ITS</h2>
         <div class="card border-light card-border-radius" style="border-radius: 50px 50px 50px 50px;">
             <div class="py-2 slide5Homebg">
                 <svg class="ms-3" xmlns="http://www.w3.org/2000/svg" width="54" height="14" viewBox="0 0 54 14">
