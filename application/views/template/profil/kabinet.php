@@ -1,5 +1,5 @@
 <!-- Header Section Carousel -->
-<section id="banner">
+<section id="banner slideprogress">
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <ol class="carousel-indicators">
             <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"></li>
@@ -91,7 +91,13 @@
       <table class="table table-borderless">
   <tbody>
     <tr>
-      <th scope="row">BPH</th>
+      <th scope="row">
+      <div class="card" style="width: 5rem;">
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">BPH</li>
+        </ul>
+      </div>
+      </th>
       <td>
       <div class="progress">
         <div class="progress-bar" width="300px" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
@@ -143,3 +149,4 @@
       </div>
     </div>
 </div>
+

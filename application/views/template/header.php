@@ -78,6 +78,7 @@
                             <ul class="dropdown-menu warnabgnav fontnavbar" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="<?php echo site_url('rilis/darikmitsuntukindonesia') ?>">Dari KM ITS untuk Indonesia </a></li>
                                 <li><a class="dropdown-item" href="<?php echo site_url('rilis/kabardaribemits') ?>">Kabar dari BEM ITS</a></li>
+                                <li><a class="dropdown-item" href="<?php echo site_url('rilis/posta') ?>">Contoh Post</a></li>
                             </ul>
                         </li>
                         <li class="nav-item px-2">
