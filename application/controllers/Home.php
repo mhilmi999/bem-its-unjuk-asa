@@ -24,4 +24,12 @@ class Home extends CI_Controller {
 		$this->load->view('template/home');
         $this->load->view('template/footer');
 	}
+	
+	public function aspirasikmits()
+	{
+        $this->load->view('template/header');
+		$this->load->view('template/aspirasikmits');
+        $this->load->view('template/footer');
+	}
+	
 }

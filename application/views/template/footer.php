@@ -48,6 +48,13 @@
         </div>
     </div>
     <!-- Copyright -->
+
+    <a class="float-button" target="_blank" href="<?= base_url();?>home/aspirasikmits">
+        <i class="fas fa-bullhorn" aria-hidden="true"></i>
+        <span>Aspirasi KM ITS<span>
+    </a>
+
+
 </footer>
 </body>
 
