@@ -12,30 +12,17 @@
                 </svg>
             </div>
             <div class="card-body mx-3">
-
-                <!-- jangan lupa ini form mulai -->
                 <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSed0lTP60VqFwY0WrZ4MxAqWE5jzcV5Lsrjg_6l7etL-lb3_A/formResponse">
-                    <!-- <div class="mb-3">
-                        <label for="exampleInputEmail1" class="form-label">Emailmu</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-                        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-                    </div> -->
-                    
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Namamu</label>
                         <input type="text" name="entry.1165107732" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                     </div>
-                    
                     <div class="mb-3">
                         <label for="exampleInputEmail" class="form-label">Aspirasimu</label>
                         <textarea class="form-control" id="message" name="entry.1933291428" placeholder="Silahkan sampaikan kritikan, sambatan, dan aspirasimu..." rows="4"></textarea>
-                        <!-- <input type="text" class="form-control input-lg" id="exampleInputEmail1" aria-describedby="emailHelp"> -->
                     </div>
-
                     <button type="submit" class="btn btn-primary">Sampaikan</button>
                 </form>
-                <!-- jangan lupa ini form selesai -->
-
             </div>
         </div>
     </div>
