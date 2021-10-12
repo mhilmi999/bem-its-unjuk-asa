@@ -131,8 +131,8 @@
       <tbody class="text-center">
         <tr>
           <th class="col-2 fontnavbar badge text-wrap float-end" style="background-color: #fcfae6; color: #013c51; width: 8rem; " scope="row">BPH</th>
-          <td style="text-align: center; vertical-align: middle;">
-            <div class="progress text-start">
+          <td>
+            <div class="progress text-start col-8 col-8">
               <div class="progress-bar progress-bar progress-bar-striped bg-info" role="progressbar" style="width: 35.65%;" aria-valuenow="36" aria-valuemin="0" aria-valuemax="100">35.65%</div>
             </div>
           </td>
@@ -140,7 +140,7 @@
         <tr>
           <th class="col-2 fontnavbar badge text-wrap float-end" style="background-color: #fcfae6; color: #013c51; width: 8rem;" scope="row">Kominrel</th>
           <td class="col-8">
-            <div class="progress text-start">
+            <div class="progress text-start col-8">
               <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 51.50%;" aria-valuenow="52" aria-valuemin="0" aria-valuemax="100">51.50%</div>
             </div>
           </td>
@@ -148,7 +148,7 @@
         <tr>
           <th class="col-2 fontnavbar badge text-wrap float-end" style="background-color: #fcfae6; color: #013c51; width: 8rem;" scope="row">Intra Kampus</th>
           <td class="col-8">
-            <div class="progress text-start">
+            <div class="progress text-start col-8">
               <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 23.18%;" aria-valuenow="23" aria-valuemin="0" aria-valuemax="100">23.18%</div>
             </div>
           </td>
@@ -156,7 +156,7 @@
         <tr>
           <th class="col-2 fontnavbar badge text-wrap float-end" style="background-color: #fcfae6; color: #013c51; width: 8rem;" scope="row">Akar Inovasi</th>
           <td class="col-8">
-            <div class="progress text-start">
+            <div class="progress text-start col-8">
               <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 16.52%;" aria-valuenow="17" aria-valuemin="0" aria-valuemax="100">16.52%</div>
             </div>
           </td>
@@ -164,7 +164,7 @@
         <tr>
           <th class="col-2 fontnavbar badge text-wrap float-end" style="background-color: #fcfae6; color: #013c51; width: 8rem;" scope="row">Kemahasiswaan</th>
           <td class="col-8">
-            <div class="progress text-start">
+            <div class="progress text-start col-8">
               <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 42.85%;" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100">42.85%</div>
             </div>
           </td>
@@ -172,7 +172,7 @@
         <tr>
           <th class="col-2 fontnavbar badge text-wrap float-end" style="background-color: #fcfae6; color: #013c51; width: 8rem;" scope="row">Gersospol</th>
           <td class="col-8">
-            <div class="progress text-start">
+            <div class="progress text-start col-8">
               <div class="progress-bar progress-bar-striped bg-warning" role="progressbar" style="width: 17.72%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">17.72%</div>
             </div>
           </td>
