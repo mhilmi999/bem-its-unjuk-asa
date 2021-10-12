@@ -10,7 +10,9 @@
         </div>
       </div>
 
-      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kominrel/medsi/medsiimc.JPG" alt="..." /></div>
+      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
+        <img class="img-fluid  my-5" src="<?= base_url(); ?>assets/img/kominrel/medsi/medsiimc.JPG" style="border-radius: 20px 20px 20px 20px;" alt="..." />
+      </div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
         <p class="lead fw-normal warnapaletputih mb-4">Kementerian Multimedia dan Informasi bertugas mengoptimalkan penyebaran informasi, mengintegrasikan serta mengelola seluruh platform media yang dimiliki oleh BEM ITS, dan mengharmonisasikan seluruh bidang media informasi KM ITS tingkat eksekutif.</p>
         <div class="my-5 text-center text-xl-start">
