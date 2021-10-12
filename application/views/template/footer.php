@@ -20,10 +20,6 @@
             </div>
             <div class="col-lg-3 col-md-12 col-sm-12 ms-n5">
                 <div>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
                     <div class="col ps-4 fw-normal text-start d-none d-sm-none d-md-block d-lg-block d-xl-block d-xxl-block">
                         <p class="fs-6">Email:<br>bem@its.ac.id</p>
                         <p class="fs-6">Get in touch with us:</p>

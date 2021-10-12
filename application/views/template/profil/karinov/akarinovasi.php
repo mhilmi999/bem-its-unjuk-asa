@@ -12,7 +12,7 @@
 
             <div class="col-xl-2 col-xxl-4 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/akarinov/karinov.png" alt="..." /></div>
             <div class="col-lg-8 col-xl-7 col-xxl-6">
-                <p class="lead fw-normal warnapaletputih mb-4">Kementrian Aktualisasi Karya dan Inovasi merupakan suatu kelompok kementerian yang bertanggung jawab untuk meningkatkan atmosfer keilmiahan di lingkup KM ITS dalam bentuk minat terhadap riset keilmiahan, pengembangan bisnis, dan ekonomi kreatif serta bertanggung jawab untuk menjaga kepekaan KM ITS terhadap kondisi sosial masyarakat di Indonesia.</p>
+                <p class="lead fw-normal warnapaletputih mb-4">Kemenkoan yang bertanggung jawab untuk meningkatkan atmosfer keilmiahan di lingkup KM ITS dalam bentuk minat terhadap riset keilmiahan, pengembangan bisnis, dan ekonomi kreatif serta bertanggung jawab untuk menjaga kepekaan KM ITS terhadap kondisi sosial masyarakat di Indonesia.</p>
 
             </div>
         </div>

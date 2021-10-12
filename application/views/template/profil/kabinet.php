@@ -212,7 +212,7 @@
                           <!-- Linkedin -->
                           <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/nailulfirdaus/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                           <!-- Instagram -->
-                          <a class="btn btn-link btn-floating btn-lg" href="instagram.com/nailulfirdaus_" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          <a class="btn btn-link btn-floating btn-lg" href="http://instagram.com/nailulfirdaus_" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                         </div>
 
                       </div>
@@ -350,7 +350,7 @@
                     <p class="card-text text-center">Menko Gersospol</p>
                     <div class="text-center">
                       <!-- Instagram -->
-                      <a class="btn btn-link btn-floating btn-lg" href="instagram.com/icangcutt" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                      <a class="btn btn-link btn-floating btn-lg" href="http://instagram.com/icangcutt" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                     </div>
 
                   </div>
