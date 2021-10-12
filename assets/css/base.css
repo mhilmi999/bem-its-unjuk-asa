@@ -36,6 +36,12 @@
     background-color: #fcfae6;
 }
 
+.bgpkagendaunjukasa {
+    background-color: #f4515e;
+}
+
+
+
 .slideprogress{
     background-color: #FF7B17;
 }
@@ -103,6 +109,9 @@
     border-radius: 50px 50px 0px 0px;
 }
 
+
+
+
 .slide5Card {
     border-radius: 50px;
 }
@@ -119,6 +128,7 @@
     font-family: 'Maven Pro', sans-serif;
     color: #013c51;
 }
+
 
 .a, a:hover, a:focus, a:active, a:link {
     text-decoration: none;
