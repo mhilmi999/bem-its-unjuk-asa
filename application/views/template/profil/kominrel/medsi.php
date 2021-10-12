@@ -402,7 +402,7 @@
 
       <div class="col-md-3 mb-3 rounded-3">
         <div class="card bg-transparent border-0 shadow-none">
-          <a href="<?= base_url(); ?>profil/komstrat">
+          <a href="https://bit.ly/PemateriBMSAMSUnjukAsa" target="_blank">
             <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/dbpemateri.jpg">
           </a>
           <div class="card-body">
@@ -413,7 +413,7 @@
 
       <div class="col-md-3 mb-3 rounded-3">
         <div class="card bg-transparent border-0 shadow-none">
-          <a href="<?= base_url(); ?>profil/komstrat">
+          <a href="https://line.me/ti/p/~indraafnaa" target="_blank">
             <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/medpar.jpg">
           </a>
           <div class="card-body">

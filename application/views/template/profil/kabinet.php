@@ -384,3 +384,45 @@
 
 </div>
 <!-- Slide Progres dan kabinet -->
+
+<!-- Highlight Proker -->
+<div class="container-fluid pt-5 slidekemenbg">
+  <div class="container pb-5">
+    <div class="row justify-content-center align-items-center">
+      <div class="col mx-auto pb-5">
+        <h2 class="fontnavbar fw-bold text-center d-none d-sm-block">Frequently Searched</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="http://bit.ly/KeppresBEMITS" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/bph/sk_bph.jpg">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">Kumpulan SK</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="http://intip.in/LPJBEMITS" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/bph/lpj_bph.jpg">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">Kumpulan LPJ</h5>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+  <div class="position-relative" style="margin-right: -15px;">
+    <div class="position-absolute bottom-0 end-0">
+      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
+    </div>
+  </div>
+</div>
+<!-- Highlight Proker -->
