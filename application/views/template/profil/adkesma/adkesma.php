@@ -1,4 +1,4 @@
-<!-- Header-->
+<!-- Deskripsi Kemenkoan-->
 <header class="warnabgnav py-5">
   <div class="container px-5">
     <div class="row gx-5 align-items-center justify-content-center">
@@ -22,8 +22,9 @@
     </div>
   </div>
 </header>
+<!-- Deskripsi Kemenkoan-->
 
-<!-- Slide 3 quicklink -->
+<!-- PH Kemenkoan -->
 <div class="container-fluid py-5 slide3Homebg">
   <!-- ======= Portfolio Section ======= -->
   <div class="container slide3Homebg" data-aos="fade-up">
@@ -279,6 +280,7 @@
 
 
 </div>
+<!-- PH Kemenkoan -->
 
 <!-- Slide 3 quicklink -->
 <div class="container-fluid py-5 slideprogress">

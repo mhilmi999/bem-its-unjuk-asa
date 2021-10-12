@@ -95,6 +95,18 @@
     opacity: 0.9;
 }
 
+
+.slidekemenbg {
+    background-color: #FFD400;
+}
+
+.slidekemeninpusbg {
+    background-color: #42eaea;
+}
+
+
+
+
 .slide4Homebg {
     background-color: #393999;
 }
@@ -109,7 +121,13 @@
     border-radius: 50px 50px 0px 0px;
 }
 
+.warnapaletijotua{
+    background-color: #addb1b;
+}
 
+.warnapaletoren{
+    background-color: #ff7b17;
+}
 
 
 .slide5Card {
@@ -142,6 +160,10 @@
 
 .responsivetekskecil {
     font-size: 5vw;
+}
+
+.warnabgkominrel{
+    background-color: #393999;
 }
 
 .warnabgnav {

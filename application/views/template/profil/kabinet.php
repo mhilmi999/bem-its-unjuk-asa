@@ -243,8 +243,6 @@
                       <h4 class="card-title text-center">Dwi<br>Rismayanti</h4>
                       <p class="card-text text-center">Sekretaris Eksekutif</p>
                       <div class="text-center">
-                        <!-- Linkedin -->
-                        <a class="btn btn-link btn-floating btn-lg" href="#!" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                         <!-- Instagram -->
                         <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/dwirismayanti/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                       </div>
