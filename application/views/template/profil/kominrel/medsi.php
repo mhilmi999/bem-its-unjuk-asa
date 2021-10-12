@@ -10,14 +10,12 @@
         </div>
       </div>
 
-      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
-        <img class="img-fluid  my-5" src="<?= base_url(); ?>assets/img/kominrel/medsi/medsiimc.JPG" style="border-radius: 20px 20px 20px 20px;" alt="..." />
-      </div>
+      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kominrel/medsi/medsiimc.jpg" alt="Foto Kegiatan Kementerian Multimedia dan Informasi BEM ITS" /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletputih mb-4">Kementerian Multimedia dan Informasi bertugas mengoptimalkan penyebaran informasi, mengintegrasikan serta mengelola seluruh platform media yang dimiliki oleh BEM ITS, dan mengharmonisasikan seluruh bidang media informasi KM ITS tingkat eksekutif.</p>
+        <p class="lead fw-normal text-white mb-4">Kementerian Multimedia dan Informasi bertugas mengoptimalkan penyebaran informasi, mengintegrasikan serta mengelola seluruh platform media yang dimiliki oleh BEM ITS, dan mengharmonisasikan seluruh bidang media informasi KM ITS tingkat eksekutif.</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-            <a class="btn btn-primary btn-lg px-4 me-sm-3 text-white border-0" style="background-color: #ff7b17;" href="https://line.me/ti/p/~trixiemarsya" target="_blank">Hubungi Kami</a>
+            <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
           </div>
         </div>
       </div>
@@ -184,7 +182,7 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/wahib_staffmedsi.jpeg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Wahib Muhibi</h4>
+                          <h4 class="card-title text-center">Wahib Muhibi Nur</h4>
                           <p class="card-text text-center">Staff Medsi</p>
                           <div class="text-center">
                             <!-- Linkedin -->
