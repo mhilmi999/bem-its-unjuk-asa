@@ -1,21 +1,21 @@
 <!-- Deskripsi Kemenkoan-->
-<header class="warnabgnav py-5">
+<header class="warnabgkominrel py-5">
   <div class="container px-5">
     <div class="row gx-5 align-items-center justify-content-center">
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
           <div class="text-center my-2">
-            <h2 class="warnapaletungu  fw-bolder mb-2 ">Kementerian Multimedia dan Informasi</h2>
+            <h2 class="warnapaletputih  fw-bolder mb-2 ">Kementerian Multimedia dan Informasi</h2>
           </div>
         </div>
       </div>
 
       <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kominrel/medsi/medsiimc.JPG" alt="..." /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Kementerian Multimedia dan Informasi bertugas mengoptimalkan penyebaran informasi, mengintegrasikan serta mengelola seluruh platform media yang dimiliki oleh BEM ITS, dan mengharmonisasikan seluruh bidang media informasi KM ITS tingkat eksekutif.</p>
+        <p class="lead fw-normal warnapaletputih mb-4">Kementerian Multimedia dan Informasi bertugas mengoptimalkan penyebaran informasi, mengintegrasikan serta mengelola seluruh platform media yang dimiliki oleh BEM ITS, dan mengharmonisasikan seluruh bidang media informasi KM ITS tingkat eksekutif.</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-            <a class="btn btn-primary btn-lg px-4 me-sm-3 text-white" href="https://line.me/ti/p/~trixiemarsya" target="_blank">Hubungi Kami</a>
+            <a class="btn btn-primary btn-lg px-4 me-sm-3 text-white border-0" style="background-color: #ff7b17;" href="https://line.me/ti/p/~trixiemarsya" target="_blank">Hubungi Kami</a>
           </div>
         </div>
       </div>
