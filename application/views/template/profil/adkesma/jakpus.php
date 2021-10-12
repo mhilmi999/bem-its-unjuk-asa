@@ -5,14 +5,14 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
           <div class="text-center my-5">
-            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Multimedia dan Informasi</h1>
+            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Kebijakan Kampus</h1>
           </div>
         </div>
       </div>
 
       <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+        <p class="lead fw-normal warnapaletungu mb-4">Kementerian Kebijakan Kampus (Jakpus) merupakan investigator kebijakan kampus dalam pengawalan isu kampus yang berfokus pada pemenuhan kebutuhan mahasiswa demi menunjang aktualisasi diri dan peningkatan kesejahteraan mahasiswa.</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
@@ -292,7 +292,7 @@
     <br>
     <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
     <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      <div class="progress-bar" role="progressbar" style="width: 48.67%;" aria-valuenow="48.67" aria-valuemin="0" aria-valuemax="100">48.67%</div>
     </div>
     <br>
     <div class="container-fluid py-5 warnabgnav rounded-3">
@@ -300,12 +300,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-              Accordion Item #1
+            Database Isu Kampus
             </button>
           </h2>
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
             <div class="accordion-body">
-              <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Mengidentifikasi dan menginventarisasi isu kampus terkini dalam bentuk database kemudian memetakannya ke dalam kategori isu strategis atau aktual. Selanjutnya, database dan hasil pemetaan digunakan untuk kajian isu strategis yang lebih komprehensif.
             </div>
           </div>
         </div>
@@ -313,12 +313,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-              Accordion Item #2
+            Kajian Strategis
             </button>
           </h2>
           <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
             <div class="accordion-body">
-              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Membuat kajian yang komprehensif terkait isu strategis yang telah dipetakan sebelumnya, kemudian akan dipublikasikan demi kebermanfaatan KM ITS.
             </div>
           </div>
         </div>
@@ -326,12 +326,51 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              Accordion Item #3
+            Isu Kamisan
             </button>
           </h2>
           <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
             <div class="accordion-body">
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Memberikan informasi teraktual atau yang bersifat dinamis seputar Isu Kebijakan Kampus dan Isu Nasional (Pendidikan) yang telah diidentifikasi. Dipublikasikan setiap hari kamis minggu ketiga setiap bulan.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFour">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+            Risalah Sepuluh Nopember
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+            <div class="accordion-body">
+            Mengadakan forum diskusi antara KM ITS dengan Birokrasi ITS terkait kebijakan strategis khususnya terkait Rencana Strategis ITS 2021 – 2025 yang telah diidentifikasi. Dipublikasikan setiap hari kamis minggu ketiga setiap bulan.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFive">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
+            Konsolidasi KM ITS
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
+            <div class="accordion-body">
+            Memberikan ruang diskusi bagi KM ITS dan/atau perwakilan Presidium KM ITS untuk menyampaikan aspirasinya terkait kebijakan ITS teraktual.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingSix">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
+            Advokasi Ruang Gerak KM ITS
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
+            <div class="accordion-body">
+            Mengadakan audiensi, diskusi dengan birokrasi, atau advokasi dalam bentuk lain untuk menyuarakan aspirasi KM ITS terkait kebijakan kampus yang telah dikonsolidasikan
             </div>
           </div>
         </div>

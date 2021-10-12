@@ -5,14 +5,14 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
           <div class="text-center my-5">
-            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Multimedia dan Informasi</h1>
+            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Ekonomi Kreatif</h1>
           </div>
         </div>
       </div>
 
       <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+        <p class="lead fw-normal warnapaletungu mb-4">Kementerian Ekonomi Kreatif berperan untuk membantu mewujudkan BEM ITS mandiri finansial dan memfasilitasi ekosistem kewirausahaan di ITS sekaligus pusat informasi kewirausahaan bagi seluruh KM ITS.</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
@@ -292,7 +292,7 @@
     <br>
     <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
     <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      <div class="progress-bar" role="progressbar" style="width: 35.72%;" aria-valuenow="35.72" aria-valuemin="0" aria-valuemax="100">35.72%</div>
     </div>
     <br>
     <div class="container-fluid py-5 warnabgnav rounded-3">
@@ -300,12 +300,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-              Accordion Item #1
+            Pengembangan Karya Kewirausahaan
             </button>
           </h2>
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
             <div class="accordion-body">
-              <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Kegiatan pengembangan ekosistem kewirausahaan ITS melalui pendampingan terhadap mahasiswa ITS dan kerjasama dengan mitra eksternal.
             </div>
           </div>
         </div>
@@ -313,12 +313,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-              Accordion Item #2
+            Economic Creator
             </button>
           </h2>
           <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
             <div class="accordion-body">
-              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Kegiatan branding kemetrian dan pengenalan karya kewirausahaan mahasiswa ITS melalui platform digital kepada internal dan eksternal ITS.
             </div>
           </div>
         </div>
@@ -326,12 +326,64 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              Accordion Item #3
+            Database Kewirausahaan
             </button>
           </h2>
           <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
             <div class="accordion-body">
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Penghimpunan data usaha yang dimilki oleh seluruh mahasiswa ITS.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFour">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+            Economic Commerce
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+            <div class="accordion-body">
+            Kegiatan yang dilakukan untuk menunjang keuangan BEM-ITS.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFive">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
+            Economic Forum
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
+            <div class="accordion-body">
+            Forum diskusi  antar stakeholder kewirausahaan di ITS untuk membahas kesepakatan ranah ranah kerja dalam bidang kewirausahaan di ITS.	
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingSix">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
+            Economic Inspiring Seminar
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
+            <div class="accordion-body">
+            Webinar tentang kewirausahaan yang berskala institut dan nasional dengan target internal ITS dan umum.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
+            Entrepreneurial Training
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
+            <div class="accordion-body">
+            Pelatihan di bidang kewirausahaan tingkat dasar dan lanjut untuk seluruh mahasiswa ITS.
             </div>
           </div>
         </div>

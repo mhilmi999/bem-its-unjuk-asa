@@ -184,7 +184,7 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/wahib_staffmedsi.jpeg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Wahib Muhibi</h4>
+                          <h4 class="card-title text-center">Wahib Muhibi Nur</h4>
                           <p class="card-text text-center">Staff Medsi</p>
                           <div class="text-center">
                             <!-- Linkedin -->

@@ -5,14 +5,14 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
           <div class="text-center my-5">
-            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Multimedia dan Informasi</h1>
+            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Pengembangan Sumber Daya Manusia</h1>
           </div>
         </div>
       </div>
 
       <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+        <p class="lead fw-normal warnapaletungu mb-4">Merupakan kementerian yang berfungsi sebagai suar pengembangan Sumber Daya Mahasiswa di lingkup KM ITS</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
@@ -292,7 +292,7 @@
     <br>
     <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
     <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>
     </div>
     <br>
     <div class="container-fluid py-5 warnabgnav rounded-3">
@@ -300,12 +300,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-              Accordion Item #1
+            PROMINEN
             </button>
           </h2>
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
             <div class="accordion-body">
-              <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Program kerja yang melakukan pencerdasan terkait HDPSDM, kemudian melakukan pemetaan terhadap PPSDM yang ada di HMD dan BEM Fakultas yang nantinya akan diberikan treatment sesuai hasil pemetaan pada PPSDM.
             </div>
           </div>
         </div>
@@ -313,12 +313,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-              Accordion Item #2
+            BLUSUKAN
             </button>
           </h2>
           <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
             <div class="accordion-body">
-              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Program kerja yang memberikan rekomendasi terkait PPSDM pada HMD dan BEM Fakultas baru, beriringan dengan Kementerian Dagri.
             </div>
           </div>
         </div>
@@ -326,12 +326,77 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              Accordion Item #3
+            DALANG P3K
             </button>
           </h2>
           <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
             <div class="accordion-body">
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Program kerja yang melakukan peninjauan terkait isi buku P3K, kemudian akan diberikan pencerdasan kepada HMD dan LMB terkait isi buku P3K. 
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFour">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+            SEKAI
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+            <div class="accordion-body">
+            Program kerja yang melakukan pencerdasan kepada Elemen Pengkader (Elder) KM ITS.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFive">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
+            CSC
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
+            <div class="accordion-body">
+            Program kerja yang melakukan diskusi antar HMD mengenai kaderisasi kepada Elemen Pengkader KM ITS.	
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingSix">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
+            GERIGI ITS 2021
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
+            <div class="accordion-body">
+            Program kerja berupa pelaksanaan Masa Orientasi Awal yang diikuti oleh seluruh Mahasiswa Baru ITS 2021, dimana dalam kegiatannya dilakukan dalam lingkup ruang dan waktu secara bersama-sama.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
+            RUU GERIGI ITS
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
+            <div class="accordion-body">
+            Program kerja penyusunan Rancangan Undang-Undang GERIGI ITS yang berguna sebagai landasan dan mekanisme pelaksanaan kegiatan.
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingEight">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false" aria-controls="panelsStayOpen-collapseEight">
+            KT-PSDM
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEight">
+            <div class="accordion-body">
+            Program kerja yang meliputi diskusi, koordinasi dan jaring aspirasi dengan melibatkan keseluruhan elemen PSDM di KM ITS.
             </div>
           </div>
         </div>
