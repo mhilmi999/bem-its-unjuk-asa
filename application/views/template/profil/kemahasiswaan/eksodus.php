@@ -56,13 +56,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Mega Sally Maharani W.H.L</h4>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
                           <p class="card-text text-center">Menteri</p>
-                           <div class="text-center">
+                          <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/mega-s-670181119" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/megasallyy/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -73,13 +73,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Fadhlurrahman Nur Ramadhani</h4>
-                          <p class="card-text text-center">Wakil Menteri</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/ramadhani_fn/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -90,13 +90,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Qonita Dinillah</h4>
-                          <p class="card-text text-center">Sekretaris Menteri</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/qonita-dinillah-676166208" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/qonitadnllh?utm_medium=copy_link" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -107,13 +107,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Neysa Agitha Latasari</h4>
-                          <p class="card-text text-center">Dirjen Pasca Kampus</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/neysa-agitha-6356751a5" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/neysaagtha" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -131,13 +131,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Anis Milena Cesari Kutananda</h4>
-                          <p class="card-text text-center">Dirjen Penanganan Covid-19</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="linkedin.com/in/aniskutananda/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="instagram.com/aniskutananda/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -148,13 +148,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Auliansyah Rizki Teknikade</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/auliansyahrizki" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/auliansyahrizkiii" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -165,13 +165,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Ane Aulia Destiane</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/aneauliad/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -182,13 +182,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Shinta Cahyaning Dewi</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/shintacahyaningd/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -205,13 +205,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Naura Alika Reswara</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/nauraalika" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/nauraalika" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -222,13 +222,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Andika Wahyu Eka Sakti</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/andika-wahyu-eka-sakti-9447001b9/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/dikawahyu29/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -239,13 +239,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Ishak</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ishakce" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/ieuishak" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -256,159 +256,13 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Febiola Putri Utami</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
+                          <p class="card-text text-center">Menteri</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/febiola-putri-7b4639204" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/ola_fpu" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row">
-
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Muhammad Akhmal Musyaffa</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/muhammad-akhmal-musyaffa/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/makhmalm/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Ferdy Arsono K.Y.</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/ferdyarsno?utm_medium=copy_link" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Rania Salsabilah Kusumawardhani</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/rania-salsabilah-kusumawardhani/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/raniasalsabilah_/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Ridha Kurnia Putri</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/rid.akp/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row">
-
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Adam Daiva Syahputra</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="www.linkedin.com/in/adam-daiva-syahputra-45a118206" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Mas Mohammad Tamim</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/tamimbsy_?utm_medium=copy_link" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Arvina Anggie Kharizma</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/arvinaa_/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
-                          </div>
-
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-md-3 mb-3 rounded-3">
-                      <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
-                        <div class="card-body">
-                          <h4 class="card-title text-center">Ramadhany Faishal</h4>
-                          <p class="card-text text-center">Staff</p>
-                          <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ramadhanyfaishal" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/dhanyftr_" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
