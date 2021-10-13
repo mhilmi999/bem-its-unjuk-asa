@@ -15,7 +15,7 @@
         <p class="lead fw-normal fontnavbar mb-4">Merupakan kementerian yang berfungsi sebagai suara pengembangan Sumber Daya Mahasiswa di lingkup KM ITS</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-          <a class="btn btn-primary btn-lg px-4 me-sm-3" style="background-color: #ADDB1B;" href="https://line.me/ti/p/~yoga.maulidi" target="_blank">Hubungi Kami</a>
+            <a class="btn btn-primary btn-lg px-4 me-sm-3" style="background-color: #ADDB1B;" href="https://line.me/ti/p/~yoga.maulidi" target="_blank">Hubungi Kami</a>
           </div>
         </div>
       </div>
@@ -54,7 +54,7 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/yoga_menpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/yoga_menpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Yoga Ilham Maulidi</h4>
                           <p class="card-text text-center">Menteri PSDM</p>
@@ -71,7 +71,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/joseph_wamenpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/joseph_wamenpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Joseph Johannes</h4>
                           <p class="card-text text-center">Wakil Menteri PSDM</p>
@@ -86,7 +86,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/kartika_sekmenpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/kartika_sekmenpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Kartika Devy</h4>
                           <p class="card-text text-center">Sekertaris Menteri PSDM</p>
@@ -101,7 +101,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/bagus_dirjenpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/bagus_dirjenpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Bagus Andi </h4>
                           <p class="card-text text-center">Dirjen PSDM</p>
@@ -125,7 +125,7 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/tito_asdirjenpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/tito_asdirjenpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Tito Bambang</h4>
                           <p class="card-text text-center">Asisten Dirjen PSDM</p>
@@ -142,7 +142,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/audra_dirjenpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/audra_dirjenpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Audra Chikita</h4>
                           <p class="card-text text-center">Dirjen PSDM</p>
@@ -157,7 +157,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/thasya_asdirjenpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/thasya_asdirjenpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Thasya Anggranty</h4>
                           <p class="card-text text-center">Asisten Dirjen PSDM</p>
@@ -174,7 +174,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/clarisa_dirjenpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/clarisa_dirjenpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Clarisa Raihaniyah</h4>
                           <p class="card-text text-center">Dirjen PSDM</p>
@@ -195,7 +195,7 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/rania_asdirjen.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/rania_asdirjen.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Febriola Rania</h4>
                           <p class="card-text text-center">Asisten Dirjen PSDM</p>
@@ -210,7 +210,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/jihad_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/jihad_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Abdullah Jihad </h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -227,7 +227,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/dedy_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/dedy_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Dedy Rizaldy</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -244,7 +244,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/samoedra_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/samoedra_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Samodera Satya</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -266,7 +266,7 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/arya_staffpsdm.png">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/arya_staffpsdm.png">
                         <div class="card-body">
                           <h4 class="card-title text-center">Muhammad Arya</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -283,7 +283,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/nurlaili_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/nurlaili_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Nur Laili</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -300,7 +300,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/nikko_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/nikko_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Nikko Gunawan</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -317,7 +317,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/irfan_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/irfan_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Irfan Nur Hanif </h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -339,7 +339,7 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/eva_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/eva_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Eva Octa Pristia</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -356,7 +356,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/nurdina_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/nurdina_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Adellia Putri</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -373,7 +373,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/rahman_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/rahman_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Muhammad Illyin</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -390,7 +390,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/evika_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/evika_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Evika Aisyah </h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -410,7 +410,7 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/haykal_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/haykal_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Muhamad Haykal </h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -425,7 +425,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/haris_staffpsdm.png">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/haris_staffpsdm.png">
                         <div class="card-body">
                           <h4 class="card-title text-center">Haris Yafie</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -442,7 +442,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/safira_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/safira_staffpsdm.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Safira Azizah</h4>
                           <p class="card-text text-center">Staff PSDM</p>
@@ -459,12 +459,12 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/dita_staffpsdm.jpg">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/dita_staffpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Dita Pradina  </h4>
+                          <h4 class="card-title text-center">Dita Pradina </h4>
                           <p class="card-text text-center">Staff PSDM</p>
                           <div class="text-center">
-                            
+
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ditapradinap/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
@@ -492,7 +492,7 @@
 <div class="container-fluid py-5 slideprogress">
   <!-- ======= Portfolio Section ======= -->
   <div class="container">
-      <h2 class=" text-center warnapaletputih fw-bolder">Proker Agenda</h2>
+    <h2 class=" text-center warnapaletputih fw-bolder">Proker Agenda</h2>
     <br>
     <h4 class="section-title text-center warnapaletputih fw-bolder">Progress</h4>
     <div class="progress">
@@ -504,12 +504,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-            PROMINEN
+              PROMINEN
             </button>
           </h2>
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
             <div class="accordion-body">
-            Program kerja yang melakukan pencerdasan terkait HDPSDM, kemudian melakukan pemetaan terhadap PPSDM yang ada di HMD dan BEM Fakultas yang nantinya akan diberikan treatment sesuai hasil pemetaan pada PPSDM.
+              Program kerja yang melakukan pencerdasan terkait HDPSDM, kemudian melakukan pemetaan terhadap PPSDM yang ada di HMD dan BEM Fakultas yang nantinya akan diberikan treatment sesuai hasil pemetaan pada PPSDM.
             </div>
           </div>
         </div>
@@ -517,12 +517,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-            BLUSUKAN
+              BLUSUKAN
             </button>
           </h2>
           <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
             <div class="accordion-body">
-            Program kerja yang memberikan rekomendasi terkait PPSDM pada HMD dan BEM Fakultas baru, beriringan dengan Kementerian Dagri.
+              Program kerja yang memberikan rekomendasi terkait PPSDM pada HMD dan BEM Fakultas baru, beriringan dengan Kementerian Dagri.
             </div>
           </div>
         </div>
@@ -530,12 +530,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-            DALANG P3K
+              DALANG P3K
             </button>
           </h2>
           <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
             <div class="accordion-body">
-            Program kerja yang melakukan peninjauan terkait isi buku P3K, kemudian akan diberikan pencerdasan kepada HMD dan LMB terkait isi buku P3K. 
+              Program kerja yang melakukan peninjauan terkait isi buku P3K, kemudian akan diberikan pencerdasan kepada HMD dan LMB terkait isi buku P3K.
             </div>
           </div>
         </div>
@@ -543,12 +543,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingFour">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
-            SEKAI
+              SEKAI
             </button>
           </h2>
           <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
             <div class="accordion-body">
-            Program kerja yang melakukan pencerdasan kepada Elemen Pengkader (Elder) KM ITS.
+              Program kerja yang melakukan pencerdasan kepada Elemen Pengkader (Elder) KM ITS.
             </div>
           </div>
         </div>
@@ -556,12 +556,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingFive">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
-            CSC
+              CSC
             </button>
           </h2>
           <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
             <div class="accordion-body">
-            Program kerja yang melakukan diskusi antar HMD mengenai kaderisasi kepada Elemen Pengkader KM ITS.	
+              Program kerja yang melakukan diskusi antar HMD mengenai kaderisasi kepada Elemen Pengkader KM ITS.
             </div>
           </div>
         </div>
@@ -569,12 +569,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingSix">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
-            GERIGI ITS 2021
+              GERIGI ITS 2021
             </button>
           </h2>
           <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
             <div class="accordion-body">
-            Program kerja berupa pelaksanaan Masa Orientasi Awal yang diikuti oleh seluruh Mahasiswa Baru ITS 2021, dimana dalam kegiatannya dilakukan dalam lingkup ruang dan waktu secara bersama-sama.
+              Program kerja berupa pelaksanaan Masa Orientasi Awal yang diikuti oleh seluruh Mahasiswa Baru ITS 2021, dimana dalam kegiatannya dilakukan dalam lingkup ruang dan waktu secara bersama-sama.
             </div>
           </div>
         </div>
@@ -582,12 +582,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
-            RUU GERIGI ITS
+              RUU GERIGI ITS
             </button>
           </h2>
           <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
             <div class="accordion-body">
-            Program kerja penyusunan Rancangan Undang-Undang GERIGI ITS yang berguna sebagai landasan dan mekanisme pelaksanaan kegiatan.
+              Program kerja penyusunan Rancangan Undang-Undang GERIGI ITS yang berguna sebagai landasan dan mekanisme pelaksanaan kegiatan.
             </div>
           </div>
         </div>
@@ -595,12 +595,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingEight">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false" aria-controls="panelsStayOpen-collapseEight">
-            KT-PSDM
+              KT-PSDM
             </button>
           </h2>
           <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEight">
             <div class="accordion-body">
-            Program kerja yang meliputi diskusi, koordinasi dan jaring aspirasi dengan melibatkan keseluruhan elemen PSDM di KM ITS.
+              Program kerja yang meliputi diskusi, koordinasi dan jaring aspirasi dengan melibatkan keseluruhan elemen PSDM di KM ITS.
             </div>
           </div>
         </div>
