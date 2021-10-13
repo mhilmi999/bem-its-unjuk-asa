@@ -254,7 +254,7 @@
                       <div class="card">
                         <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/akarinov/ristek/Muhammad Akbar Hardian_Staff_Teknik Kelautan 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Muhammad Akbar Hardian</h4>
+                          <h4 class="card-title text-center">Muhammad Akbar</h4>
                           <p class="card-text text-center">Staff Ristek</p>
                           <div class="text-center">
                             <!-- Linkedin -->
