@@ -10,7 +10,7 @@
         </div>
       </div>
 
-      <div class="col-xl-2 col-xxl-4 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kominrel/kominrel.png" alt="..." /></div>
+      <div class="col-xl-2 col-xxl-4 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kominrel/kominrel.png" alt="Kementerian Koordinasi Komunikasi, Informasi, dan Relasi" /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
         <p class="lead fw-normal warnapaletputih mb-4">Kemenkoan yang bertanggung jawab dalam membangun citra baik BEM ITS lewat komunikasi secara visual, penyebaran informasi, dan manajemen relasi kepada stakeholder BEM ITS.</p>
 

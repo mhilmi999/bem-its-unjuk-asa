@@ -5,14 +5,14 @@
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
           <div class="text-center my-5">
-            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Multimedia dan Informasi</h1>
+            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Diseminasi dan Kolaborasi Kajian</h1>
           </div>
         </div>
       </div>
 
-      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/gersospol/diskoan/diskoan.jpg" alt="Foto Kegiatan Kementerian Diskoan BEM ITS" /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit!</p>
+        <p class="lead fw-normal warnapaletungu mb-4">Kementerian Diseminasi dan Kolaborasi Kajian bertugas memberikan pendidikan kajian dan menanamkan nilai-nilai sosial politik kepada KM ITS serta sebagai wadah kolaborasi kajian antar ormawa KM ITS</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
             <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
@@ -292,7 +292,7 @@
     <br>
     <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
     <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">25%</div>
+      <div class="progress-bar" role="progressbar" style="width: 11.50%;" aria-valuenow="11.50" aria-valuemin="0" aria-valuemax="100">11.50%</div>
     </div>
     <br>
     <div class="container-fluid py-5 warnabgnav rounded-3">
@@ -300,12 +300,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingOne">
             <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne">
-              Accordion Item #1
+            PMS (Pemetaan Minat Sospol KM ITS)
             </button>
           </h2>
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
             <div class="accordion-body">
-              <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Kegiatan pemetaan terkait minat anggota KM ITS dalam menanggapi isu sosial politik sebagai dasaran arah gerak sosial politik BEM ITS
             </div>
           </div>
         </div>
@@ -313,12 +313,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-              Accordion Item #2
+            SATPOL (Sistem Kaderisasi Terpadu Pergerakan dan Sosial Politik)
             </button>
           </h2>
           <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
             <div class="accordion-body">
-              <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Penyusunan kurikulum penunjang bagi jalannya gerakan Garda Aksi, pembuatan standar penilaian, serta mengonsep sistem kaderisasi pergerakan berkelanjutan sebagai wadah pembinaan KM ITS
             </div>
           </div>
         </div>
@@ -326,12 +326,64 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-              Accordion Item #3
+            TEKAN (Team Kajian)
             </button>
           </h2>
           <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
             <div class="accordion-body">
-              <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            Pembentukan tim pengkaji isu strategis untuk meningkatkan keterlibatan KM ITS terhadap aktivitas kastrat di tingkat Institut
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFour">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+            DISEL (Diskusi Literasi)
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+            <div class="accordion-body">
+            Forum diskusi yang melibatkan UKM dan bertujuan untuk memperkuat kesadaran KM ITS terhadap kajian
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingFive">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
+            Sekolah Kastrat
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
+            <div class="accordion-body">
+            Kegiatan pelatihan untuk meningkatkan wawasan sosial politik serta wawasan inisiasi kajian strategis yang ditujukan untuk perwakilan masing-masing ormawa beserta anggota KM ITS yang memiliki keinginan belajar	
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingSix">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
+            Safari Kastrat
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
+            <div class="accordion-body">
+            Kegiatan kunjungan yang dilakukan untuk mengetahui kondisi terkini mengenai kajian strategis di ormawa KM ITS sebagai landasan dalam memberikan treatment pengembangan kajian strategis
+            </div>
+          </div>
+        </div>
+        <br>
+        <div class="accordion-item rounded-3">
+          <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
+            Mapping Isu Keprofesian
+            </button>
+          </h2>
+          <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
+            <div class="accordion-body">
+            Pemetaan terhadap isu-isu yang akan dibawa oleh ormawa KM ITS sesuai bidang keilmuan masing-masiing
             </div>
           </div>
         </div>

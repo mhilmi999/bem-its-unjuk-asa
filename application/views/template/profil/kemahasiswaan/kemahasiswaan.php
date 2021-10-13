@@ -10,7 +10,7 @@
                 </div>
             </div>
 
-            <div class="col-xl-2 col-xxl-4 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/adkesma/kesma.png" alt="..." /></div>
+            <div class="col-xl-2 col-xxl-4 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kemahasiswaan/kesma.png" alt="..." /></div>
             <div class="col-lg-8 col-xl-7 col-xxl-6">
                 <p class="lead fw-normal fontnavbar mb-4">Kemenkoan yang bergerak dan bertanggung jawab dalam membentuk pelayanan kesejahteraan mahasiswa yang responsif dan terintegrasi serta inklusif bagi seluruh mahasiswa ITS.</p>
 
@@ -37,7 +37,7 @@
                                     <div class="row justify-content-center">
                                         <div class="col-md-3 mb-3 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/adkesma/mega_pltmenkoadkesma.jpg">
+                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/mega_pltmenkoadkesma.jpg">
                                                 <div class="card-body">
                                                     <h4 class="card-title text-center">Mega Sally</h4>
                                                     <p class="card-text text-center">PLT Menko Kemahasiswaan</p>
@@ -54,7 +54,7 @@
                                         </div>
                                         <div class="col-md-3 mb-3 mx-5 rounded-3">
                                             <div class="card">
-                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/adkesma/nadia_sekmenkoadkesma.jpg">
+                                                <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/nadia_sekmenkoadkesma.jpg">
                                                 <div class="card-body">
                                                     <h4 class="card-title text-center">Nadia Azhaar</h4>
                                                     <p class="card-text text-center">Sekmenko Kemahasiswaan</p>
@@ -94,7 +94,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a href="<?= base_url(); ?>profil/jakpus">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/adkesma/pictLinkJAKPUS.png">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/pictLinkJAKPUS.png">
                     </a>
                 </div>
             </div>
@@ -102,7 +102,7 @@
             <div class="col-md-3 mb-3 rounded-3">
                 <div class="card bg-transparent border-0">
                     <a href="<?= base_url(); ?>profil/eksodus">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/adkesma/pictLinkEKSODUS.png">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/pictLinkEKSODUS.png">
                     </a>
 
                 </div>
@@ -111,7 +111,7 @@
             <div class="col-md-3 mb-3  rounded-3">
                 <div class="card bg-transparent border-0">
                     <a href="<?= base_url(); ?>profil/adkesma">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/adkesma/pictLinkADKESMA.png">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/pictLinkADKESMA.png">
                     </a>
 
                 </div>

@@ -106,28 +106,28 @@ class Profil extends CI_Controller
 	public function kemahasiswaan()
 	{
 		$this->load->view('template/header');
-		$this->load->view('template/profil/adkesma/kemahasiswaan');
+		$this->load->view('template/profil/kemahasiswaan/kemahasiswaan');
 		$this->load->view('template/footer');
 	}
 
 	public function jakpus()
 	{
 		$this->load->view('template/header');
-		$this->load->view('template/profil/adkesma/jakpus');
+		$this->load->view('template/profil/kemahasiswaan/jakpus');
 		$this->load->view('template/footer');
 	}
 
 	public function eksodus()
 	{
 		$this->load->view('template/header');
-		$this->load->view('template/profil/adkesma/eksodus');
+		$this->load->view('template/profil/kemahasiswaan/eksodus');
 		$this->load->view('template/footer');
 	}
 
 	public function adkesma()
 	{
 		$this->load->view('template/header');
-		$this->load->view('template/profil/adkesma/adkesma');
+		$this->load->view('template/profil/kemahasiswaan/adkesma');
 		$this->load->view('template/footer');
 	}
 
