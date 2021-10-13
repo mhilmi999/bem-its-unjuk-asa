@@ -1,21 +1,21 @@
 <!-- Deskripsi Kemenkoan-->
-<header class="warnabgnav py-5">
+<header class="slidekemeninpusbg py-5">
   <div class="container px-5">
     <div class="row gx-5 align-items-center justify-content-center">
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
-          <div class="text-center my-5">
-            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Pengembangan Sumber Daya Manusia</h1>
+          <div class="text-center my-2">
+            <h2 class="fontnavbar  fw-bolder mb-2 ">Kementerian Pengembangan Sumber Daya Manusia</h2>
           </div>
         </div>
       </div>
 
-      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/inpus/psdm/psdm.jpg" alt="Foto Kegiatan Kementerian PSDM BEM ITS" /></div>
+      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid my-5" style="border-radius: 20px 20px 20px 20px;" src="<?= base_url(); ?>assets/img/inpus/psdm/psdm.jpg" alt="Foto Kegiatan Kementerian PSDM BEM ITS" /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Merupakan kementerian yang berfungsi sebagai suar pengembangan Sumber Daya Mahasiswa di lingkup KM ITS</p>
+        <p class="lead fw-normal fontnavbar mb-4">Merupakan kementerian yang berfungsi sebagai suara pengembangan Sumber Daya Mahasiswa di lingkup KM ITS</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-            <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
+          <a class="btn btn-primary btn-lg px-4 me-sm-3" style="background-color: #ADDB1B;" href="https://line.me/ti/p/~yoga.maulidi" target="_blank">Hubungi Kami</a>
           </div>
         </div>
       </div>
@@ -27,9 +27,9 @@
 <!-- PH Kemenkoan -->
 <div class="container-fluid py-5 slide3Homebg">
   <!-- ======= Portfolio Section ======= -->
-  <div class="container slide3Homebg" data-aos="fade-up">
+  <div class="container" data-aos="fade-up">
     <header class="section-header">
-      <h3 class="section-title warnapaletungu fw-bolder">Meet Our Team</h3>
+      <h3 class="section-title fontnavbar fw-bolder">Meet Our Team</h3>
     </header>
     <section class="pt-5 pb-5">
       <div class="container">
@@ -54,15 +54,15 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/yoga_menpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Yoga Ilham Maulidi</h4>
+                          <p class="card-text text-center">Menteri PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/yoga-maulidi/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/yogamld/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -71,15 +71,13 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/joseph_wamenpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Joseph Johannes</h4>
+                          <p class="card-text text-center">Wakil Menteri PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
-                            <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/joseph-johannes-de-brito/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                           </div>
 
                         </div>
@@ -88,15 +86,13 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/kartika_sekmenpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Kartika Devy</h4>
+                          <p class="card-text text-center">Sekertaris Menteri PSDM</p>
                           <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/krtkdvyk/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -105,15 +101,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/bagus_dirjenpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Bagus Andi </h4>
+                          <p class="card-text text-center">Dirjen PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/bagus-andi-lukito-021298220" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/bagusandii_/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -125,19 +121,19 @@
 
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/tito_asdirjenpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Tito Bambang</h4>
+                          <p class="card-text text-center">Asisten Dirjen PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#!" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -146,15 +142,13 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/audra_dirjenpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Audra Chikita</h4>
+                          <p class="card-text text-center">Dirjen PSDM</p>
                           <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="instagram.com/_audrachiki_/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -163,15 +157,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/thasya_asdirjenpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Thasya Anggranty</h4>
+                          <p class="card-text text-center">Asisten Dirjen PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="www.linkedin.com/in/thasyaanggranty" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="instagram.com/anggrantytha" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -180,15 +174,13 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/clarisa_dirjenpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Clarisa Raihaniyah</h4>
+                          <p class="card-text text-center">Dirjen PSDM</p>
                           <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/clarisarhnyh?utm_medium=copy_link" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -199,19 +191,17 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/rania_asdirjen.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Febriola Rania</h4>
+                          <p class="card-text text-center">Asisten Dirjen PSDM</p>
                           <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/febriolarania?utm_medium=copy_link" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -220,15 +210,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/jihad_staffpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Abdullah Jihad </h4>
+                          <p class="card-text text-center">Staff PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/akbarrr19/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/akbarrr19_/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -237,15 +227,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/dedy_staffpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Dedy Rizaldy</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/dedy-rizaldy-4b61b71a0/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/dedoooy/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -254,15 +244,231 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/samoedra_staffpsdm.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Samodera Satya</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/samodera-satya-mi-rajnanda-putra-anang-39542a1ba/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/p/CPun2X3nIRv/?utm_medium=copy_link" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row justify-content-center">
+
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/arya_staffpsdm.png">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Muhammad Arya</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/muhammad-arya-yuliandra-973b73204/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/aryaxandra/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/nurlaili_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Nur Laili</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/nur-laili-syahrozhadl-504967215" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/nurlaiilis/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/nikko_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Nikko Gunawan</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/gunawannikko" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/gunawannikko/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/irfan_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Irfan Nur Hanif </h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/irfan-nur-hanif-khoirullah-578585217/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/irfannur27/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row justify-content-center">
+
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/eva_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Eva Octa Pristia</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/eva-octa-pristia-aa7615214" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/evxocta" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/nurdina_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Adellia Putri</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/adellia-putri-nurdina-440420144/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/adelliaptr11/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/rahman_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Muhammad Illyin</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/la-ode-muhammad-illyin-abdul-rahman-8a66b7220/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/illyin11/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/evika_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Evika Aisyah </h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/evikaisyah/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row justify-content-center">
+
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/haykal_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Muhamad Haykal </h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/haykal_hanif/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/haris_staffpsdm.png">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Haris Yafie</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="www.linkedin.com/in/haris-yafie-96a258216" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/harisyafie/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/safira_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Safira Azizah</h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="www.linkedin.com/in/safiraazz" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/safiraazz_" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?=base_url();?>assets/img/inpus/psdm/dita_staffpsdm.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Dita Pradina  </h4>
+                          <p class="card-text text-center">Staff PSDM</p>
+                          <div class="text-center">
+                            
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ditapradinap/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/ditapradinap/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -282,17 +488,15 @@
 </div>
 <!-- PH Kemenkoan -->
 
-<!-- Slide 3 quicklink -->
+<!-- Proker Agenda -->
 <div class="container-fluid py-5 slideprogress">
   <!-- ======= Portfolio Section ======= -->
   <div class="container">
-    <header class="section-header">
-      <h3 class="section-title text-center warnapaletungu fw-bolder">Proker Agenda</h3>
-    </header>
+      <h2 class=" text-center warnapaletputih fw-bolder">Proker Agenda</h2>
     <br>
-    <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
+    <h4 class="section-title text-center warnapaletputih fw-bolder">Progress</h4>
     <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>
+      <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100">10%</div>
     </div>
     <br>
     <div class="container-fluid py-5 warnabgnav rounded-3">
@@ -404,159 +608,46 @@
     </div>
   </div>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Proker Agenda -->
 
-<!-- Slide 3 quicklink -->
-<div class="container-fluid py-5 slide3Homebg">
-  <section id="portfolio" class="clearfix">
-    <div class="container slide3Homebg" data-aos="fade-up">
+<!-- Highlight Proker -->
+<div class="container-fluid pt-5 warnapaletijotua">
+  <div class="container pb-5">
+    <div class="row justify-content-center align-items-center">
+      <div class="col mx-auto pb-5">
+        <h2 class="fontnavbar fw-bold text-center d-none d-sm-block">Frequently Searched</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
 
-      <header class="section-header">
-        <h3 class="section-title warnapaletungu fw-bolder">Tautan Cepat</h3>
-      </header>
-
-      <div class="row" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-12">
-          <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">Semua</li>
-            <li data-filter=".filter-app">Kesehatan</li>
-            <li data-filter=".filter-card">Kesma</li>
-            <li data-filter=".filter-web">Partnership</li>
-          </ul>
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="https://www.instagram.com/gerigiits/" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/GERIGI.jpg">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">GERIGI ITS</h5>
+          </div>
         </div>
       </div>
 
-      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 1</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app1.jpg" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="https://bit.ly/BukuP3K" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/inpus/psdm/P3K.jpg">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">Pedoman Pemetaan dan Pemantauan KM ITS</h5>
           </div>
         </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 3</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 2</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 2</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 2</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 3</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 1</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 3</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 1</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
       </div>
 
     </div>
-  </section>
+  </div>
+  <div class="position-relative" style="margin-right: -15px;">
+    <div class="position-absolute bottom-0 end-0">
+      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
+    </div>
+  </div>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Highlight Proker -->
