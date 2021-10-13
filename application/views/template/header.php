@@ -36,7 +36,7 @@
 
     <link rel='stylesheet' type='text/css' href='<?= base_url(); ?>fullcalendar/lib/main.css' />
 
-    <title>Beranda | BEM ITS</title>
+    <title>BEM ITS | Unjuk Asa</title>
 
 </head>
 

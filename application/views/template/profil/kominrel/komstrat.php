@@ -1,24 +1,24 @@
 <!-- Deskripsi Kemenkoan-->
-<header class="warnabgnav py-5">
+<header class="warnabgkominrel py-5">
   <div class="container px-5">
     <div class="row gx-5 align-items-center justify-content-center">
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
-          <div class="text-center my-5">
-            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Komunikasi Strategis</h1>
+          <div class="text-center my-2">
+            <h2 class="warnapaletputih fw-bolder mb-2 ">Kementerian Komunikasi Strategis</h2>
           </div>
         </div>
       </div>
 
-      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kominrel/komstrat/komstrat.jpg" alt="Foto Kegiatan Kementerian Komunikasi Strategis BEM ITS" /></div>
+      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid  my-5" src="<?= base_url(); ?>assets/img/kominrel/komstrat/komstrat.jpg" style="border-radius: 20px 20px 20px 20px;" alt="Foto Kegiatan Kementerian Komunikasi Strategis BEM ITS" /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Komunikasi Strategis (Komstrat) adalah kementerian yang bergerak di bidang pencitraan dan propaganda kreatif BEM ITS.	
-	
-	
-	</p>
+        <p class="lead fw-normal warnapaletputih mb-4">Komunikasi Strategis (Komstrat) adalah kementerian yang bergerak di bidang pencitraan dan propaganda kreatif BEM ITS.
+
+
+        </p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-            <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
+            <a class="btn btn-primary btn-lg px-4 me-sm-3" style="background-color: #ff7b17;" href="https://line.me/ti/p/~izaddina" target="_blank">Hubungi Kami</a>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@
 <!-- PH Kemenkoan -->
 <div class="container-fluid py-5 slide3Homebg">
   <!-- ======= Portfolio Section ======= -->
-  <div class="container slide3Homebg" data-aos="fade-up">
+  <div class="container" data-aos="fade-up">
     <header class="section-header">
       <h3 class="section-title warnapaletungu fw-bolder">Meet Our Team</h3>
     </header>
@@ -57,13 +57,11 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/addina_menkomstrat.png">
                         <div class="card-body">
                           <h4 class="card-title text-center">Izzah Addina Haq</h4>
-                          <p class="card-text text-center">Menteri</p>
-                           <div class="text-center">
-                            <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                          <p class="card-text text-center">Menteri Komstrat</p>
+                          <div class="text-center">
                             <!-- Instagram -->
                             <a class="btn btn-link btn-floating btn-lg" href="instagram.com/izaddina" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
@@ -74,10 +72,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/daikichi_wamenkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Daikichi Alif Nurfirmansya</h4>
-                          <p class="card-text text-center">Wakil Menteri</p>
+                          <h4 class="card-title text-center">Daikichi Alif</h4>
+                          <p class="card-text text-center">Wakil Menteri Komstrat</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/daikichi-alif-689a70218/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -91,10 +89,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/endang_sekmenkomstrat.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Endang Astanti</h4>
-                          <p class="card-text text-center">Sekretaris Menteri</p>
+                          <p class="card-text text-center">Sekretaris Menteri Komstrat</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/endang-astanti-01776620a/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -108,7 +106,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/sella_dirjenkomstrat.png">
                         <div class="card-body">
                           <h4 class="card-title text-center">Sella Fitri Alifia</h4>
                           <p class="card-text text-center">Dirjen KKI</p>
@@ -128,13 +126,13 @@
 
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/atik_dirjenkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">I Nyoman Tri Sendyana</h4>
+                          <h4 class="card-title text-center">Tri Sendyana</h4>
                           <p class="card-text text-center">Dirjen Komunikasi Kreatif</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -149,9 +147,9 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/dila_staffkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Nadila Wulan Cahyani</h4>
+                          <h4 class="card-title text-center">Nadila Wulan</h4>
                           <p class="card-text text-center">Staff Pewacanaan</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -166,9 +164,9 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/marissa_staffkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Marissa Naomi Juliana Ambarita</h4>
+                          <h4 class="card-title text-center">Marissa Naomi </h4>
                           <p class="card-text text-center">Staff Pewacanaan</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -183,9 +181,9 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/trinanda_staffkosmtrat.JPG">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Tri Nanda Apriansyah</h4>
+                          <h4 class="card-title text-center">Nanda Apriansyah</h4>
                           <p class="card-text text-center">Staff Kampanye Kreatif</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -202,13 +200,13 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/nabila_staffkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Nabila Lilia Rahmawati</h4>
+                          <h4 class="card-title text-center">Nabila Lilia</h4>
                           <p class="card-text text-center">Staff Pewacanaan</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -223,9 +221,9 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/dayyan_staffkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Dayyan Nashrul Haq</h4>
+                          <h4 class="card-title text-center">Dayyan Nashrul </h4>
                           <p class="card-text text-center">Staff Kampanye Kreatif</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -240,9 +238,9 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/kafa_staffkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Kafa 'Aisyana Ni'mah</h4>
+                          <h4 class="card-title text-center">Kafa 'Aisyana </h4>
                           <p class="card-text text-center">Staff Pewacanaan</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -257,9 +255,9 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/alif_staffkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Muhammad Alifuddin Akbar</h4>
+                          <h4 class="card-title text-center">M Alifuddin Akbar</h4>
                           <p class="card-text text-center">Staff Kampanye Kreatif</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -275,13 +273,13 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/komstrat/fujian_staffkomstrat.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Fujian Ahmadzulva Santriyo Rafelino</h4>
+                          <h4 class="card-title text-center">Fujian Ahmadzulva</h4>
                           <p class="card-text text-center">Staff Kampanye Kreatif</p>
                           <div class="text-center">
                             <!-- Linkedin -->
@@ -305,17 +303,16 @@
 </div>
 <!-- PH Kemenkoan -->
 
-<!-- Slide 3 quicklink -->
+<!-- Proker Agenda -->
 <div class="container-fluid py-5 slideprogress">
   <!-- ======= Portfolio Section ======= -->
   <div class="container">
-    <header class="section-header">
-      <h3 class="section-title text-center warnapaletungu fw-bolder">Proker Agenda</h3>
-    </header>
+
+    <h2 class="section-title text-center warnapaletputih fw-bolder">Proker Agenda</h2>
     <br>
-    <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
+    <h4 class="section-title text-center warnapaletputih fw-bolder">Progress</h4>
     <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+      <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
     </div>
     <br>
     <div class="container-fluid py-5 warnabgnav rounded-3">
@@ -328,7 +325,7 @@
           </h2>
           <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
             <div class="accordion-body">
-            Wadah interaktif untuk menampung aspirasi dan membahas isu-isu hangat yang ada di KM ITS dalam bentuk video kreatif.
+              Wadah interaktif untuk menampung aspirasi dan membahas isu-isu hangat yang ada di KM ITS dalam bentuk video kreatif.
             </div>
           </div>
         </div>
@@ -336,12 +333,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
-            Creative Writing
+              Creative Writing
             </button>
           </h2>
           <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
             <div class="accordion-body">
-            Merupakan bentuk rilis konten kreatif dalam rangka membantu bridging isu-isu, yang tengah dekat dengan kalangan audience, usungan elemen dalam BEM ITS.
+              Merupakan bentuk rilis konten kreatif dalam rangka membantu bridging isu-isu, yang tengah dekat dengan kalangan audience, usungan elemen dalam BEM ITS.
             </div>
           </div>
         </div>
@@ -349,12 +346,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingThree">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
-            BECAK (BEM ITS Mengucapkan)
+              BECAK (BEM ITS Mengucapkan)
             </button>
           </h2>
           <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
             <div class="accordion-body">
-            BEM ITS mengucapkan (BECAK) adalah bentuk apresiasi melalui ucapan kreatif untuk memperingati hari besar yang dirayakan oleh KM ITS. BECAK tidak hanya berisi ucapan, melainkan ada konten yang menyertai sesuai dengan hari besar yang diperingati.
+              BEM ITS mengucapkan (BECAK) adalah bentuk apresiasi melalui ucapan kreatif untuk memperingati hari besar yang dirayakan oleh KM ITS. BECAK tidak hanya berisi ucapan, melainkan ada konten yang menyertai sesuai dengan hari besar yang diperingati.
             </div>
           </div>
         </div>
@@ -362,12 +359,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingFour">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
-            Press Release
+              Press Release
             </button>
           </h2>
           <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
             <div class="accordion-body">
-            Melakukan reportase mengenai kegiatan yang dilakukan oleh BEM ITS sebagai bentuk penyebaran citra baik BEM ITS dan informasi ke KM ITS dan masyarakat umum
+              Melakukan reportase mengenai kegiatan yang dilakukan oleh BEM ITS sebagai bentuk penyebaran citra baik BEM ITS dan informasi ke KM ITS dan masyarakat umum
             </div>
           </div>
         </div>
@@ -375,12 +372,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingFive">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
-            Grand Design Guideline
+              Grand Design Guideline
             </button>
           </h2>
           <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
             <div class="accordion-body">
-            Branding guideline yang dibuat dalam bentuk supergrafis, pedoman penggunaan elemen visual, dan SOP copywriting.	
+              Branding guideline yang dibuat dalam bentuk supergrafis, pedoman penggunaan elemen visual, dan SOP copywriting.
             </div>
           </div>
         </div>
@@ -388,12 +385,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingSix">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
-            Grup Assistensi
+              Grup Assistensi
             </button>
           </h2>
           <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
             <div class="accordion-body">
-            wadah untuk melaksanakan quality control setiap konten yang akan diunggah ke kanal media BEM ITS
+              wadah untuk melaksanakan quality control setiap konten yang akan diunggah ke kanal media BEM ITS
             </div>
           </div>
         </div>
@@ -401,12 +398,12 @@
         <div class="accordion-item rounded-3">
           <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
-            Kominrel Mengajar
+              Kominrel Mengajar
             </button>
           </h2>
           <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
             <div class="accordion-body">
-            Wadah untuk memberikan pencerdasan terkait penggunaan Grand Design Guideline
+              Wadah untuk memberikan pencerdasan terkait penggunaan Grand Design Guideline
             </div>
           </div>
         </div>
@@ -414,159 +411,49 @@
     </div>
   </div>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Proker Agenda -->
 
-<!-- Slide 3 quicklink -->
-<div class="container-fluid py-5 slide3Homebg">
-  <section id="portfolio" class="clearfix">
-    <div class="container slide3Homebg" data-aos="fade-up">
+<!-- Highlight Proker -->
+<div class="container-fluid pt-5 slidekemenbg">
+  <div class="container pb-5">
+    <div class="row justify-content-center align-items-center">
+      <div class="col mx-auto pb-5">
+        <h2 class="fontnavbar fw-bold text-center d-none d-sm-block">Suara KM ITS</h2>
+        <h6 class="section-title text-center fontnavbar fw-bolder">Merupakan salah satu program kerja Kementerian Komunikasi Strategis yang juga sebagai media penyampaian<br>isu-isu unik yang sedang hangat di KM ITS.</h6>
+      </div>
+    </div>
+    <div class="row justify-content-center">
 
-      <header class="section-header">
-        <h3 class="section-title warnapaletungu fw-bolder">Tautan Cepat</h3>
-      </header>
-
-      <div class="row" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-12">
-          <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">Semua</li>
-            <li data-filter=".filter-app">Kesehatan</li>
-            <li data-filter=".filter-card">Kesma</li>
-            <li data-filter=".filter-web">Partnership</li>
-          </ul>
+      <div class="col mb-3 rounded-3">
+        <div class="ratio ratio-16x9" style="border-radius: 10px; overflow: hidden;">
+          <iframe src="https://www.youtube.com/embed/JCKKWZZ9CO8">
+          </iframe>
         </div>
       </div>
-
-      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 1</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app1.jpg" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
+      <div class="col mb-3 rounded-3">
+        <div class="ratio ratio-16x9" style="border-radius: 10px; overflow: hidden;">
+          <iframe src="https://www.youtube.com/embed/AT5oFo0CbKw">
+          </iframe>
         </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 3</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 2</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 2</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 2</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 3</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 1</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 3</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 1</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
       </div>
 
     </div>
-  </section>
+
+    <div class="row justify-content-center">
+      <div class="col mb-3 rounded-3">
+        <div class="ratio ratio-16x9" style="border-radius: 10px; overflow: hidden;">
+          <iframe src="https://www.youtube.com/embed/Gh8GlAMePG0">
+          </iframe>
+        </div>
+      </div>
+      <div class="col mb-3 rounded-3">
+        <div class="ratio ratio-16x9" style="border-radius: 10px; overflow: hidden;">
+          <iframe src="https://www.youtube.com/embed/uctqZZRRlPA">
+          </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Highlight Proker -->
