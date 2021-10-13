@@ -1,21 +1,21 @@
 <!-- Deskripsi Kemenkoan-->
-<header class="warnabgnav py-5">
+<header class="warnabgkominrel py-5">
   <div class="container px-5">
     <div class="row gx-5 align-items-center justify-content-center">
       <div class="row justify-content-center">
         <div class="col-lg-8 col-xxl-6">
-          <div class="text-center my-5">
-            <h1 class="warnapaletungu display-5 fw-bolder mb-2 ">Kementerian Hubungan Luar</h1>
+          <div class="text-center my-2">
+            <h2 class="warnapaletputih fw-bolder mb-2 ">Kementerian Hubungan Luar</h2>
           </div>
         </div>
       </div>
 
-      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="<?= base_url(); ?>assets/img/kominrel/hublu/hublu.jpg" alt="Foto Kegiatan Kementerian Hubungan Luar BEM ITS" /></div>
+      <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid my-5" src="<?= base_url(); ?>assets/img/kominrel/hublu/hublu.jpg" style="border-radius: 20px 20px 20px 20px;" alt="Foto Kegiatan Kementerian Hubungan Luar BEM ITS" /></div>
       <div class="col-lg-8 col-xl-7 col-xxl-6">
-        <p class="lead fw-normal warnapaletungu mb-4">Kementerian Hubungan Luar merupakan kementerian yang berperan dalam membangun dan mengembangkan citra baik BEM ITS ke pihak eksternal, baik dalam negeri maupun luar negeri, serta membangun relasi strategis dengan seluruh stakeholder BEM ITS.</p>
+        <p class="lead fw-normal warnapaletputih mb-4">Kementerian Hubungan Luar merupakan kementerian yang berperan dalam membangun dan mengembangkan citra baik BEM ITS ke pihak eksternal, baik dalam negeri maupun luar negeri, serta membangun relasi strategis dengan seluruh stakeholder BEM ITS.</p>
         <div class="my-5 text-center text-xl-start">
           <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-            <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Hubungi Kami</a>
+          <a class="btn btn-primary btn-lg px-4 me-sm-3" style="background-color: #ff7b17;" href="https://line.me/ti/p/~danielchrisdio" target="_blank">Hubungi Kami</a>
           </div>
         </div>
       </div>
@@ -27,7 +27,7 @@
 <!-- PH Kemenkoan -->
 <div class="container-fluid py-5 slide3Homebg">
   <!-- ======= Portfolio Section ======= -->
-  <div class="container slide3Homebg" data-aos="fade-up">
+  <div class="container" data-aos="fade-up">
     <header class="section-header">
       <h3 class="section-title warnapaletungu fw-bolder">Meet Our Team</h3>
     </header>
@@ -54,10 +54,10 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/daniel_menhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Daniel Chrisdio</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <p class="card-text text-center">Menteri Hublu</p>
                            <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/danielchrisdiodn" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -71,10 +71,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/dadik_wamenhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">M. Dadik A</h4>
-                          <p class="card-text text-center">Wakil Menteri</p>
+                          <p class="card-text text-center">Wakil Menteri Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/dadikaminnanda/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -88,10 +88,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/dhau_sekmenhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Dhau Fara Shabira</h4>
-                          <p class="card-text text-center">Sekretaris Menteri</p>
+                          <p class="card-text text-center">Sekretaris Menteri Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/dhaufara/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -105,7 +105,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/celine_dirjenhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Celine Dian Sitorus</h4>
                           <p class="card-text text-center">Dirjen KKI</p>
@@ -125,11 +125,11 @@
 
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/azzahra_dirjenhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Azzahra Paramanindhita</h4>
                           <p class="card-text text-center">Dirjen HKAL</p>
@@ -146,10 +146,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/krisna_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Made Krisna Adinarayana</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="www.linkedin.com/in/madekrisnaadinarayana" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -163,10 +163,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/dinda_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Dinda Febriani Analiyah</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/dinda-febriani-analiyah-91a404187/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -180,10 +180,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/alvian_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Alvian Rizki Mahesruri</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/alvianrizki/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -199,14 +199,14 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/seli_staffhublu.png">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Seli Cynthia Puspitasari</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Seli Cynthia </h4>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/seli-cynthia-puspitasari-9a8a671b7/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -220,10 +220,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/dovi_staffhublu.png">
                         <div class="card-body">
                           <h4 class="card-title text-center">Dovi Pratama Dion</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/dovipratamadion/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -237,10 +237,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/elfirza_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Elfirza Zain</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/elfirza-zain/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -254,10 +254,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/ezra_staffhublu.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Ananda Ezra Yohanes</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Ananda Ezra</h4>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/anandaezra" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -272,14 +272,14 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/oryza_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Clara Lourdessa Oryza Emmanuella</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/oryza-emmanuella/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -293,10 +293,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/zayem_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Muhammad Zayem Ghifari Rizal</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/zayemghifari" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -310,10 +310,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/audrey_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Jemima Audrey Natasha</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/jemimaudrey/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -327,10 +327,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/duta_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Muhammad Duta Albany Satria</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/duta-albany" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -345,14 +345,14 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/almas_staffhublu.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Almas Hafizhah</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/almashafizhah/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -366,10 +366,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/vira_staffhublu.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Vira Loverinca Millenia</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <h4 class="card-title text-center">Vira Loverinca</h4>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/viraloverinca" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -383,10 +383,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                        <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kominrel/hublu/amalia_staffhublu.png">
                         <div class="card-body">
                           <h4 class="card-title text-center">Amalia Nur Azizah</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Hublu</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/Amalia-Nur-Azizah/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -411,7 +411,7 @@
 </div>
 <!-- PH Kemenkoan -->
 
-<!-- Slide 3 quicklink -->
+<!-- Proker Agenda -->
 <div class="container-fluid py-5 slideprogress">
   <!-- ======= Portfolio Section ======= -->
   <div class="container">
@@ -421,7 +421,7 @@
     <br>
     <h4 class="section-title text-center warnapaletungu fw-bolder">Progress</h4>
     <div class="progress">
-      <div class="progress-bar" role="progressbar" style="width: 35.72%;" aria-valuenow="35.72" aria-valuemin="0" aria-valuemax="100">35.72%</div>
+      <div class="progress-bar progress-bar-striped bg-success" role="progressbar" style="width: 35.72%;" aria-valuenow="35.72" aria-valuemin="0" aria-valuemax="100">35.72%</div>
     </div>
     <br>
     <div class="container-fluid py-5 warnabgnav rounded-3">
@@ -546,159 +546,46 @@
     </div>
   </div>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Proker Agenda -->
 
-<!-- Slide 3 quicklink -->
-<div class="container-fluid py-5 slide3Homebg">
-  <section id="portfolio" class="clearfix">
-    <div class="container slide3Homebg" data-aos="fade-up">
+<!-- Highlight Proker -->
+<div class="container-fluid pt-5 slidekemenbg">
+  <div class="container pb-5">
+    <div class="row justify-content-center align-items-center">
+      <div class="col mx-auto pb-5">
+        <h2 class="fontnavbar fw-bold text-center d-none d-sm-block">Frequently Searched</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
 
-      <header class="section-header">
-        <h3 class="section-title warnapaletungu fw-bolder">Tautan Cepat</h3>
-      </header>
-
-      <div class="row" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-12">
-          <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">Semua</li>
-            <li data-filter=".filter-app">Kesehatan</li>
-            <li data-filter=".filter-card">Kesma</li>
-            <li data-filter=".filter-web">Partnership</li>
-          </ul>
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="https://arek.its.ac.id/iprs/login" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/hublu/iprs.jpg">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">Integrated Public Relation System</h5>
+          </div>
         </div>
       </div>
 
-      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 1</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app1.jpg" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="https://inilho.its.ac.id/" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/hublu/ilits.jpg">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">INI LHO ITS!</h5>
           </div>
         </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 3</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 2</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 2</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 2</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 3</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 1</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 3</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 1</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
       </div>
 
     </div>
-  </section>
+  </div>
+  <div class="position-relative" style="margin-right: -15px;">
+    <div class="position-absolute bottom-0 end-0">
+      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
+    </div>
+  </div>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Highlight Proker -->

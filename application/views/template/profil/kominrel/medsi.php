@@ -401,7 +401,7 @@
       <div class="col-md-3 mb-3 rounded-3">
         <div class="card bg-transparent border-0 shadow-none">
           <a href="https://bit.ly/PemateriBMSAMSUnjukAsa" target="_blank">
-            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/dbpemateri.jpg">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kominrel/medsi/db.jpg">
           </a>
           <div class="card-body">
             <h5 class="card-title text-center fw-bold">Database Pemateri BMS & AMS</h5>
