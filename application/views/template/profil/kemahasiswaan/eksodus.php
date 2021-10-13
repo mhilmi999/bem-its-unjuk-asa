@@ -27,7 +27,7 @@
 <!-- PH Kemenkoan -->
 <div class="container-fluid py-5 slide3Homebg">
   <!-- ======= Portfolio Section ======= -->
-  <div class="container slide3Homebg" data-aos="fade-up">
+  <div class="container" data-aos="fade-up">
     <header class="section-header">
       <h3 class="section-title warnapaletungu fw-bolder">Meet Our Team</h3>
     </header>
@@ -54,15 +54,15 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Mega Sally_Mentri_Teknik Lingkungan 2018.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
-                          <div class="text-center">
+                          <h4 class="card-title text-center">Mega Sally M.W.H.L</h4>
+                          <p class="card-text text-center">Menteri Eksodus</p>
+                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/mega-s-670181119" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/megasallyy/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -71,15 +71,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Fadhlurrahman Nur Ramadhani_Wakil Menteri_Aristektur 2018.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Fadhlurrahman N.R</h4>
+                          <p class="card-text text-center">Wakil Menteri Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/ramadhani_fn/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -88,15 +88,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Qonita Dinillah_Sekretaris Mentri.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Qonita Dinillah</h4>
+                          <p class="card-text text-center">Sekretaris Menteri Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/qonita-dinillah-676166208" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/qonitadnllh?utm_medium=copy_link" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -105,15 +105,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Neysa Agitha_Dirjen Pasca Kampus_Teknik Sipil 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Neysa Agitha Latasari</h4>
+                          <p class="card-text text-center">Dirjen Pasca Kampus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/neysa-agitha-6356751a5" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/neysaagtha" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -125,19 +125,19 @@
 
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Anis_Dirjen Penanganan Covid-19_Teknik Lingkungan.png">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Anis Milena C.K</h4>
+                          <p class="card-text text-center">Dirjen Penanganan Covid-19</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/aniskutananda/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/aniskutananda/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -146,15 +146,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Rizki_Dirjen Kesehatan Mental_Teknik Sistem dan Industri 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Auliansyah Rizki Teknikade</h4>
+                          <p class="card-text text-center">Dirjen Kesehatan Mental</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://linkedin.com/in/aniskutananda/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/auliansyahrizkiii" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -163,15 +163,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Ane Aulia Destiane_Staff_Teknik Infrastruktur Sipil 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Ane Aulia Destiane</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/aneauliad/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -180,15 +180,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Shinta Cahyaning Dewi_Staff_Biologi 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Shinta Cahyaning Dewi</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/shinta-cahyaning-2b38981a7" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/shintacahyaningd/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -199,19 +199,19 @@
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <div class="row">
+                  <div class="row justify-content-center">
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Naura Alika Reswara_Staff_Teknik Sipil 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Naura Alika Reswara</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/nauraalika" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/nauraalika" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -220,15 +220,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Andika Wahyu_Staff_Teknik Sipil 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Andika Wahyu Eka Sakti</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/andika-wahyu-eka-sakti-9447001b9/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/dikawahyu29/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -237,15 +237,15 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Ishak_Staff_Teknik Infrastruktur Sipil 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Ishak</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ishakce" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/ieuishak" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -254,15 +254,161 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Febiola Putri_Staff_Kimia 2019.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Trixie Marsya Rofifah</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Febiola Putri Utami</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/febiola-putri-7b4639204" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
                             <!-- Instagram -->
-                            <a class="btn btn-link btn-floating btn-lg" href="#!" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/ola_fpu" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row justify-content-center">
+
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Muhammad Akhmal Musyaffa_Staff_Teknik Sistem dan Industri 2019.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Muhammad Akhmal Musyaffa</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/muhammad-akhmal-musyaffa/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/makhmalm/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Ferdy Arsono K.Y._Staff_Teknik Sipil 2019.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Ferdy Arsono K.Y.</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/ferdyarsno?utm_medium=copy_link" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Rania Salsabilah Kusumawardhani_Staff_Teknik Sipil.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Rania Salsabilah Kusumawardhani</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/rania-salsabilah-kusumawardhani/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/raniasalsabilah_/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Ridha Kurnia P._Staff_Teknik Kimia Industri 2019.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Ridha Kurnia Putri</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/rid.akp/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row justify-content-center">
+
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Adam Daiva Syahputra_Staff_Teknik Kelautan 2019.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Adam Daiva Syahputra</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/adam-daiva-syahputra-45a118206" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Mas Mohammad Tamim_Staff_Teknik Elektro Otomasi 2019.jpg">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Mas Mohammad Tamim</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/tamimbsy_?utm_medium=copy_link" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Arvina Anggie Kharizma_Staff_Teknik Lingkungan 2019.png">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Arvina Anggie Kharizma</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/arvinaa_/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+
+                        </div>
+
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url();?>assets/img/kemahasiswaan/eksodus/eksodus/Ramadhany Faishal_Staff_Teknik Mesin Industri 2019.png">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Ramadhany Faishal</h4>
+                          <p class="card-text text-center">Staff Eksodus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/ramadhanyfaishal" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://www.instagram.com/dhanyftr_" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
                           </div>
 
                         </div>
@@ -458,157 +604,33 @@
 </div>
 <!-- Slide 3 quicklink -->
 
-<!-- Slide 3 quicklink -->
-<div class="container-fluid py-5 slide3Homebg">
-  <section id="portfolio" class="clearfix">
-    <div class="container slide3Homebg" data-aos="fade-up">
-
-      <header class="section-header">
-        <h3 class="section-title warnapaletungu fw-bolder">Tautan Cepat</h3>
-      </header>
-
-      <div class="row" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-12">
-          <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">Semua</li>
-            <li data-filter=".filter-app">Kesehatan</li>
-            <li data-filter=".filter-card">Kesma</li>
-            <li data-filter=".filter-web">Partnership</li>
-          </ul>
-        </div>
+<!-- Highlight Proker -->
+<div class="container-fluid pt-5 slidekemenbg">
+  <div class="container pb-5">
+    <div class="row justify-content-center align-items-center">
+      <div class="col mx-auto pb-5">
+        <h2 class="fontnavbar fw-bold text-center d-none d-sm-block">Frequently Searched</h2>
       </div>
+    </div>
+    <div class="row justify-content-center">
 
-      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 1</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app1.jpg" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="https://drive.google.com/file/d/12sU_-mB_mLo59QiWJM5Qnid6oxa2rozD/view" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/akarinov/ristek/gdk.png">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">Coming Soon</h5>
           </div>
         </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 3</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 2</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 2</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 2</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 3</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 1</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 3</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 1</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
       </div>
 
     </div>
-  </section>
+  </div>
+  <div class="position-relative" style="margin-right: -15px;">
+    <div class="position-absolute bottom-0 end-0">
+      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
+    </div>
+  </div>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Highlight Proker -->

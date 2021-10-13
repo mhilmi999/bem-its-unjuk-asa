@@ -54,10 +54,10 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Syahrul Fakhri Ramadhan_Menteri_Teknik Sipil 2018.png">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Syahrul Fakhri Ramadhan</h4>
-                          <p class="card-text text-center">Menteri</p>
+                          <h4 class="card-title text-center">Syahrul Fakhri R</h4>
+                          <p class="card-text text-center">Menteri Jakpus</p>
                            <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/syahrulfakhri" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -71,10 +71,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Zidan Badruddin Yusuf_Wamen_Teknik Lingkungan 2018.jpg">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Zidan Badruddin Yusuf</h4>
-                          <p class="card-text text-center">Wakil Menteri</p>
+                          <h4 class="card-title text-center">Zidan Badruddin Y</h4>
+                          <p class="card-text text-center">Wakil Menteri Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/zidanbadruddinyusuf" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -88,10 +88,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Agnes Ivonne Margaretha_Sekmen_Teknik Fisika 2018.png">
                         <div class="card-body">
-                          <h4 class="card-title text-center">Agnes Ivonne Margaretha</h4>
-                          <p class="card-text text-center">Sekretaris Menteri</p>
+                          <h4 class="card-title text-center">Agnes Ivonne M</h4>
+                          <p class="card-text text-center">Sekretaris Menteri Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/agnesivonne" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -105,7 +105,7 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Maidatul Khasanah_Dirjen Kajian dan Analisis Isu Kampus_Teknik Fisika 2018.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Maidatul Khasanah</h4>
                           <p class="card-text text-center">Dirjen Kajian dan Analisis Isu Kampus</p>
@@ -129,10 +129,10 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/M Fadhil A_Dirjen_Teknik Fisika 2018.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Muhammad Fadhil Aulia</h4>
-                          <p class="card-text text-center">Dirjen HKAL</p>
+                          <p class="card-text text-center">Dirjen Media, Relasi, dan Propaganda</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/fadhau/" target="_blank" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -146,10 +146,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Adinda Dika Kameswara_Staf_Teknik Sipil 2019.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Adinda Dika Kameswara</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/adinda-dika-24257b214/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -163,10 +163,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/D. Christman Pakpahan_Staff_T. Sistem Perkapalan.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">David Christman Pakpahan</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/d-christman" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -180,10 +180,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Dea Rastra Kemala_Staff_Teknik Kimia Industri_2019.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Dea Rastra Kemala</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="http://linkedin.com/in/dea-rastra-kemala-4b9a82194" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -203,10 +203,10 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Dimas Aji Yudistira_Staf_Teknik Mesin 2019.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Dimas Aji Yudistira</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://linkedin.com/in/dimasajiyudistira" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -220,10 +220,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Dixie Rulanda_Staff_Teknik Infrastruktur Sipil.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Dixie Rulanda</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -237,10 +237,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Muhammad Thoriq_Staff_Teknik dan Sistem Industri 2019.png">
                         <div class="card-body">
                           <h4 class="card-title text-center">Muhammad Thoriq</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://www.linkedin.com/in/muhammadthoriqthor/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -254,10 +254,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Siti Fatimah Azzahrah_Staf_Teknik Kimia Industri 2019.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Siti Fatimah Azzahroh</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="https://linked.in/tifa-azzarah/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -276,10 +276,10 @@
 
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/ST. Ahmad Abdi R.S.Alam_Staf_Teknik Lingkungan 2019.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">ST. Ahmad Abdi Raja Semesta Alam</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -293,10 +293,10 @@
                     </div>
                     <div class="col-md-3 mb-3 rounded-3">
                       <div class="card">
-                        <img class="img-fluid rounded-3 " alt="100%x280" src="https://images.unsplash.com/photo-1532781914607-2031eca2f00d?ixlib=rb-0.3.5&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=1080&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjMyMDc0fQ&amp;s=7c625ea379640da3ef2e24f20df7ce8d">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Sulis Avandhy Putra_Staff_Sistem Informasi19.jpg">
                         <div class="card-body">
                           <h4 class="card-title text-center">Sulis Avandhy Putra</h4>
-                          <p class="card-text text-center">Staff</p>
+                          <p class="card-text text-center">Staff Jakpus</p>
                           <div class="text-center">
                             <!-- Linkedin -->
                             <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
@@ -306,6 +306,21 @@
 
                         </div>
 
+                      </div>
+                    </div>
+                    <div class="col-md-3 mb-3 rounded-3">
+                      <div class="card">
+                      <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/kemahasiswaan/jakpus/jakpus/Yoszy Kusuma Wardana_Staf_Teknik Infrastruktur Sipil 2019.png">
+                        <div class="card-body">
+                          <h4 class="card-title text-center">Yoszy Kusuma Wardana</h4>
+                          <p class="card-text text-center">Staff Jakpus</p>
+                          <div class="text-center">
+                            <!-- Linkedin -->
+                            <a class="btn btn-link btn-floating btn-lg" href="#" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-linkedin"></i></a>
+                            <!-- Instagram -->
+                            <a class="btn btn-link btn-floating btn-lg" href="https://instagram.com/yoszykusuma_/" role="button" data-mdb-ripple-color="dark"><i style="color: #fffff;" class="fab fa-instagram"></i></a>
+                          </div>
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -419,157 +434,33 @@
 </div>
 <!-- Slide 3 quicklink -->
 
-<!-- Slide 3 quicklink -->
-<div class="container-fluid py-5 slide3Homebg">
-  <section id="portfolio" class="clearfix">
-    <div class="container slide3Homebg" data-aos="fade-up">
-
-      <header class="section-header">
-        <h3 class="section-title warnapaletungu fw-bolder">Tautan Cepat</h3>
-      </header>
-
-      <div class="row" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-12">
-          <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">Semua</li>
-            <li data-filter=".filter-app">Kesehatan</li>
-            <li data-filter=".filter-card">Kesma</li>
-            <li data-filter=".filter-web">Partnership</li>
-          </ul>
-        </div>
+<!-- Highlight Proker -->
+<div class="container-fluid pt-5 slidekemenbg">
+  <div class="container pb-5">
+    <div class="row justify-content-center align-items-center">
+      <div class="col mx-auto pb-5">
+        <h2 class="fontnavbar fw-bold text-center d-none d-sm-block">Frequently Searched</h2>
       </div>
+    </div>
+    <div class="row justify-content-center">
 
-      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 1</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app1.jpg" data-gallery="portfolioGallery" title="App 1" class="portfolio-lightbox link-preview"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
+      <div class="col-md-3 mb-3 rounded-3">
+        <div class="card bg-transparent border-0 shadow-none">
+          <a href="https://drive.google.com/file/d/12sU_-mB_mLo59QiWJM5Qnid6oxa2rozD/view" target="_blank">
+            <img class="img-fluid rounded-3 " alt="100%x280" src="<?= base_url(); ?>assets/img/akarinov/ristek/gdk.png">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title text-center fw-bold">Coming Soon</h5>
           </div>
         </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 3</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 2</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 2</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 2</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web2.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 3</a></h4>
-              <p>App</p>
-              <div>
-                <a href="assets/img/portfolio/app3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 1</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 3</a></h4>
-              <p>Card</p>
-              <div>
-                <a href="assets/img/portfolio/card3.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-          <div class="portfolio-wrap">
-            <img src="<?= base_url(); ?>newbiz/assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
-            <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 1</a></h4>
-              <p>Web</p>
-              <div>
-                <a href="assets/img/portfolio/web1.jpg" class="portfolio-lightbox link-preview" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
-              </div>
-            </div>
-          </div>
-        </div>
-
       </div>
 
     </div>
-  </section>
+  </div>
+  <div class="position-relative" style="margin-right: -15px;">
+    <div class="position-absolute bottom-0 end-0">
+      <img src="<?= base_url(); ?>assets/img/ornament/img/ornamenslide2home.png" class="img-fluid " alt="...">
+    </div>
+  </div>
 </div>
-<!-- Slide 3 quicklink -->
+<!-- Highlight Proker -->
